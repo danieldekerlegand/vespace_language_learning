@@ -168,29 +168,29 @@ public class ENSEMBLE_UIHandler : MonoBehaviour
         "Male Noble Player", 
         "Female Noble Player", 
         "Servant Player", 
-		"Marie-Catherine Bienfait, ticket taker",
-		"Bruno Dufort, semainier",
-		"Monsieur d'Ain d'Ygeste",
-		"Monsieur d'Hautainville",
-		"Monsieur de Gentilly",
-		"Monsieur des Trois-Landes",
-		"Monsieur d'Issy",
-		"Madame de Blasé-l'Evêque",
-		"Chérubin",
-        "Valère",
-        "Madame du Puy-des-Gougères",
-		"Madame de Cher-sur-Tendre",
-		"Mademoiselle Eloïse de Hauteclaire",
-		"Ninon",
-		"Toinette",
-		"Fruit-seller / la Fruitière",
-		"Cellist",
-		"L'Animateur",
-		"Fanchon la Poche",
-		"Henriette Lavocat",
-		"Jeannot la Panse",
-		"Scaramouche",
-		"Madame Argant"
+		"Grace Huval",
+		"Ralph Aucoin",
+		"Francois LeBlanc",
+		"Jean Billeaud",
+		"Christophe Bertrand",
+		"Dustin Gaspard",
+		"Théo Arnaud",
+		"Cora DeCuir",
+		"Elizabeth Landry",
+        "Charles Devillier",
+        "Renee Hebert",
+		"Victoria Guidry",
+		"Adrianne Billedeau",
+		"Jeanne Comeaux",
+		"Mary Delahoussaye",
+		"Celila Broussard",
+		"Charles Devillier",
+		"Claude Gaudet",
+		"Amy Robichaux",
+		"Elie Charpentier",
+		"Jeanne Moutard",
+		"Ralph Langlois",
+		"Marie-Claire Savoie"
     };
 
 
@@ -198,44 +198,44 @@ public class ENSEMBLE_UIHandler : MonoBehaviour
         "Male Noble Player",
         "Female Noble Player",
         "Servant Player",
-        "Marie-Catherine Bienfait, ticket taker",
-        "Monsieur d'Ain d'Ygeste",
-        "Monsieur d'Hautainville",
-        "Monsieur de Gentilly",
-        "Monsieur des Trois-Landes",
-        "Monsieur d'Issy",
-        "Madame de Blasé-l'Evêque",
-        "Chérubin",
-        "Valère",
-        "Madame du Puy-des-Gougères",
-        "Madame de Cher-sur-Tendre",
-        "Mademoiselle Eloïse de Hauteclaire",
-        "Ninon",
-        "Toinette",
-        "Fruit-seller / la Fruitière",
-        "Henriette Lavocat",
-        "Madame Argant"
+        "Grace Huval",
+        "Francois LeBlanc",
+        "Jean Billeaud",
+        "Christophe Bertrand",
+        "Dustin Gaspard",
+        "Théo Arnaud",
+        "Cora DeCuir",
+        "Elizabeth Landry",
+        "Charles Devillier",
+        "Renee Hebert",
+        "Victoria Guidry",
+        "Adrianne Billedeau",
+        "Jeanne Comeaux",
+        "Mary Delahoussaye",
+        "Celila Broussard",
+        "Elie Charpentier",
+        "Marie-Claire Savoie"
     };
 
     private Cast castForServant = new Cast {
         "Servant Player",
-        "Marie-Catherine Bienfait, ticket taker",
-        "Monsieur d'Ain d'Ygeste",
-        "Monsieur d'Hautainville",
-        "Monsieur de Gentilly",
-        "Monsieur des Trois-Landes",
-        "Monsieur d'Issy",
-        "Madame de Blasé-l'Evêque",
-        "Chérubin",
-        "Valère",
-        "Madame du Puy-des-Gougères",
-        "Madame de Cher-sur-Tendre",
-        "Mademoiselle Eloïse de Hauteclaire",
-        "Ninon",
-        "Toinette",
-        "Fruit-seller / la Fruitière",
-        "Henriette Lavocat",
-        "Madame Argant"
+        "Grace Huval",
+        "Francois LeBlanc",
+        "Jean Billeaud",
+        "Christophe Bertrand",
+        "Dustin Gaspard",
+        "Théo Arnaud",
+        "Cora DeCuir",
+        "Elizabeth Landry",
+        "Charles Devillier",
+        "Renee Hebert",
+        "Victoria Guidry",
+        "Adrianne Billedeau",
+        "Jeanne Comeaux",
+        "Mary Delahoussaye",
+        "Celila Broussard",
+        "Elie Charpentier",
+        "Marie-Claire Savoie"
     };
 
     public Dictionary<string, bool> characterAvailable = new Dictionary<string, bool>();
@@ -262,7 +262,7 @@ public class ENSEMBLE_UIHandler : MonoBehaviour
         Debug.Log("LA LAL A LA CAN YOU SEE ME?");
         hud.UpdateQuestProgress(HUD.NO_TICKET);
 
-        arrowTarget = GameObject.Find("Marie-Catherine Bienfait, ticket taker");
+        arrowTarget = GameObject.Find("Grace Huval");
 
         dialogueOffset = new Vector3(-0.06f, 0.04f, 0.51f);
         resultsOffset = new Vector3(0f, 0f, 0.5f);
@@ -478,10 +478,10 @@ public class ENSEMBLE_UIHandler : MonoBehaviour
                 List<Action> actions = data.ensemble.getActions(ensembleCalculateVolitionsJobForGetCharacterActions.InDataInitiator, ensembleCalculateVolitionsJobForGetCharacterActions.InDataResponder, volitionInterface, cast, 999, 999, 999);
                 Debug.Log("Action count is: " + actions.Count);
 
-                if (ensembleCalculateVolitionsJobForGetCharacterActions.InDataObjectName == "Cellist")
+                if (ensembleCalculateVolitionsJobForGetCharacterActions.InDataObjectName == "Charles Devillie")
                 {
                     CloseMenu();
-                    StartCoroutine(DisplayDialogue(ensembleCalculateVolitionsJobForGetCharacterActions.InDataObjectName, "The cellist is busy playing."));
+                    StartCoroutine(DisplayDialogue(ensembleCalculateVolitionsJobForGetCharacterActions.InDataObjectName, "The Charles Devillie is busy playing."));
                 }
                 else if (hud.GetQuestProgress() == HUD.BACKSTAGE_ACCESS)
                 {
@@ -543,7 +543,7 @@ public class ENSEMBLE_UIHandler : MonoBehaviour
                 else if (hud.GetQuestProgress() == HUD.FINAL_INTERACTION)
                 {
                     Debug.Log("In data object name " + ensembleCalculateVolitionsJobForGetCharacterActions.InDataObjectName + " final interlocutor: " + finalInterlocutor);
-                    if (ensembleCalculateVolitionsJobForGetCharacterActions.InDataObjectName == "Marie-Catherine Bienfait, ticket taker")
+                    if (ensembleCalculateVolitionsJobForGetCharacterActions.InDataObjectName == "Grace Huval")
                     {
                         if (actions.Count > 0)
                         {
@@ -639,7 +639,7 @@ public class ENSEMBLE_UIHandler : MonoBehaviour
                 
                 if(hud.GetQuestProgress() == HUD.FINAL_INTERACTION){
                     areTheyAvailable = false;
-                    if(character == "Marie-Catherine Bienfait, ticket taker"){
+                    if(character == "Grace Huval"){
                         areTheyAvailable = true;
                     }
                 }
@@ -1304,9 +1304,9 @@ public class ENSEMBLE_UIHandler : MonoBehaviour
         {
             // vm.PositionAssigner();
 
-            if (finalInterlocutor == "Valère") {
+            if (finalInterlocutor == "Charles Devillier") {
                 GameObject valere = GameObject.Find(finalInterlocutor);
-                GameObject madameDuPuyDesGougeres = GameObject.Find("Madame du Puy-des-Gougères");
+                GameObject madameDuPuyDesGougeres = GameObject.Find("Renee Hebert");
                 arrowTarget = valere;
                 Transform madameParent = madameDuPuyDesGougeres.transform.parent;
                 madameParent.GetComponent<NPCNavMesh>().myViewingTransform = lastInterlocutorTransform;
@@ -1480,7 +1480,7 @@ public class ENSEMBLE_UIHandler : MonoBehaviour
 
                     //Turn off previous person Halo, turn on ticket taker halo.
                     lastInterlocutorParticleSystem.gameObject.SetActive(false);
-                    GameObject ticketTaker = GameObject.Find("Marie-Catherine Bienfait, ticket taker");
+                    GameObject ticketTaker = GameObject.Find("Grace Huval");
                     arrowTarget = ticketTaker;
                     Transform ticketTakerParticleSystem = ticketTaker.transform.GetChild(0).GetChild(0);
                     ticketTakerParticleSystem.gameObject.SetActive(true);
@@ -1515,7 +1515,7 @@ public class ENSEMBLE_UIHandler : MonoBehaviour
                 //     e.Type == "PositiveInteraction");
                 bool isCompleteInteraction = true;
 
-                if (isCompleteInteraction && objectName != "Marie-Catherine Bienfait, ticket taker") {
+                if (isCompleteInteraction && objectName != "Grace Huval") {
                     if (!characterInteractions.Contains(objectName)) {
                         characterInteractions.Add(objectName);
 
@@ -1587,51 +1587,51 @@ public class ENSEMBLE_UIHandler : MonoBehaviour
 
     public void setDialogueHudImage(string characterName)
     {
-        if (characterName == "Marie-Catherine Bienfait, ticket taker") {
+        if (characterName == "Grace Huval") {
             dialogueIcon.GetComponent<RawImage>().texture = MarieCatherineBienfait;
-        } else if (characterName == "Bruno Dufort, semainier") {
+        } else if (characterName == "Ralph Aucoin") {
             dialogueIcon.GetComponent<RawImage>().texture = BrunoDufort;
-        } else if (characterName == "Monsieur d'Ain d'Ygeste") {
+        } else if (characterName == "Francois LeBlanc") {
             dialogueIcon.GetComponent<RawImage>().texture = MonsieurdAindYgeste;
-        } else if (characterName == "Monsieur d'Hautainville") {
+        } else if (characterName == "Jean Billeaud") {
             dialogueIcon.GetComponent<RawImage>().texture = MonsieurdHautainville;
-        } else if (characterName == "Monsieur de Gentilly") {
+        } else if (characterName == "Christophe Bertrand") {
             dialogueIcon.GetComponent<RawImage>().texture = MonsieurdeGentilly;
-        } else if (characterName == "Monsieur des Trois-Landes") {
+        } else if (characterName == "Dustin Gaspard") {
             dialogueIcon.GetComponent<RawImage>().texture = MonsieurdesTroisLandes;
-        } else if (characterName == "Monsieur d'Issy") {
+        } else if (characterName == "Théo Arnaud") {
             dialogueIcon.GetComponent<RawImage>().texture = MonsieurdIssy;
-        } else if (characterName == "Madame de Blasé-l'Evêque") {
+        } else if (characterName == "Cora DeCuir") {
             dialogueIcon.GetComponent<RawImage>().texture = MadamedeBlaselEveque;
-        } else if (characterName == "Chérubin") {
+        } else if (characterName == "Elizabeth Landry") {
             dialogueIcon.GetComponent<RawImage>().texture = Cherubin;
-        } else if (characterName == "Valère") {
+        } else if (characterName == "Charles Devillier") {
             dialogueIcon.GetComponent<RawImage>().texture = Valere;
-        } else if (characterName == "Madame du Puy-des-Gougères") {
+        } else if (characterName == "Renee Hebert") {
             dialogueIcon.GetComponent<RawImage>().texture = MadameduPuydesGougeres;
-        } else if (characterName == "Madame de Cher-sur-Tendre") {
+        } else if (characterName == "Victoria Guidry") {
             dialogueIcon.GetComponent<RawImage>().texture = MadamedeChersurTendre;
-        } else if (characterName == "Mademoiselle Eloïse de Hauteclaire") {
+        } else if (characterName == "Adrianne Billedeau") {
             dialogueIcon.GetComponent<RawImage>().texture = MademoiselleEloisedeHauteclaire;
-        } else if (characterName == "Ninon") {
+        } else if (characterName == "Jeanne Comeaux") {
             dialogueIcon.GetComponent<RawImage>().texture = Ninon;
-        } else if (characterName == "Toinette") {
+        } else if (characterName == "Mary Delahoussaye") {
             dialogueIcon.GetComponent<RawImage>().texture = Toinette;
-        } else if (characterName == "Fruit-seller / la Fruitière") {
+        } else if (characterName == "Celila Broussard") {
             dialogueIcon.GetComponent<RawImage>().texture = LaFruitiere;
-        } else if (characterName == "Cellist") {
+        } else if (characterName == "Charles Devillie") {
             dialogueIcon.GetComponent<RawImage>().texture = Cellist;
-        } else if (characterName == "L'Animateur") {
+        } else if (characterName == "Claude Gaudet") {
             dialogueIcon.GetComponent<RawImage>().texture = Lanimateur;
-        } else if (characterName == "Fanchon la Poche") {
+        } else if (characterName == "Amy Robichaux") {
             dialogueIcon.GetComponent<RawImage>().texture = FanchonLaPoche;
-        } else if (characterName == "Henriette Lavocat") {
+        } else if (characterName == "Elie Charpentier") {
             dialogueIcon.GetComponent<RawImage>().texture = HenrietteLavocat;
-        } else if (characterName == "Jeannot la Panse") {
+        } else if (characterName == "Jeanne Moutard") {
             dialogueIcon.GetComponent<RawImage>().texture = JeannotLaPanse;
-        } else if (characterName == "Scaramouche") {
+        } else if (characterName == "Ralph Langlois") {
             dialogueIcon.GetComponent<RawImage>().texture = Scaramouche;
-        } else if (characterName == "Madame Argant") {
+        } else if (characterName == "Marie-Claire Savoie") {
             dialogueIcon.GetComponent<RawImage>().texture = MadameArgant;
         }
     }

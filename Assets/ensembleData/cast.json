@@ -1,82 +1,121 @@
 {
 	"cast": {
-		"Male Noble Player": {
-			"name": "Male Noble Player"
+		"Jacob Chauvin": {
+			"name": "Jacob Chauvin"
 		},
-		"Female Noble Player": {
-			"name": "Female Noble Player"
+		"Alphonse Martin": {
+			"name": "Alphonse Martin"
 		},
-		"Servant Player": {
-			"name": "Servant Player"
+		"Grace Huval": {
+			"name": "Grace Huval"
 		},
-		"Marie-Catherine Bienfait, ticket taker": {
-			"name": "Marie-Catherine Bienfait, ticket taker"
+		"Ralph Aucoin": {
+			"name": "Ralph Aucoin"
 		},
-		"Bruno Dufort, semainier": {
-			"name": "Bruno Dufort, semainier"
+		"Cora DeCuir": {
+			"name": "Cora DeCuir"
 		},
-		"Monsieur d'Ain d'Ygeste": {
-			"name": "Monsieur d'Ain d'Ygeste"
+		"Francois LeBlanc": {
+			"name": "Francois LeBlanc"
 		},
-		"Monsieur d'Hautainville": {
-			"name": "Monsieur d'Hautainville"
+		"Jean Billeaud": {
+			"name": "Jean Billeaud"
 		},
-		"Monsieur de Gentilly": {
-			"name": "Monsieur de Gentilly"
+		"Christophe Bertrand": {
+			"name": "Christophe Bertrand"
 		},
-		"Monsieur des Trois-Landes": {
-			"name": "Monsieur des Trois-Landes"
+		"Elizabeth Landry": {
+			"name": "Elizabeth Landry"
 		},
-		"Monsieur d'Issy": {
-			"name": "Monsieur d'Issy"
+		"Renee Hebert": {
+			"name": "Renee Hebert"
 		},
-		"Madame de Blasé-l'Evêque": {
-			"name": "Madame de Blasé-l'Evêque"
+		"Victoria Guidry": {
+			"name": "Victoria Guidry"
 		},
-		"Chérubin": {
-			"name": "Chérubin"
+		"Adrianne Billedeaux": {
+			"name": "Adrianne Billedeaux"
 		},
-		"Valère": {
-			"name": "Valère"
+		"Jeanne Comeaux": {
+			"name": "Jeanne Comeaux"
 		},
-		"Madame du Puy-des-Gougères": {
-			"name": "Madame du Puy-des-Gougères"
+		"Dustin Gaspard": {
+			"name": "Dustin Gaspard"
 		},
-		"Madame de Cher-sur-Tendre": {
-			"name": "Madame de Cher-sur-Tendre"
+		"Mary Delahoussaye": {
+			"name": "Mary Delahoussaye"
 		},
-		"Mademoiselle Eloïse de Hauteclaire": {
-			"name": "Mademoiselle Eloïse de Hauteclaire"
+		"Théo Arnaud": {
+			"name": "Théo Arnaud"
 		},
-		"Ninon": {
-			"name": "Ninon"
+		"Celila Broussard": {
+			"name": "Celila Broussard"
 		},
-		"Toinette": {
-			"name": "Toinette"
+		"Amy Robichaux": {
+			"name": "Amy Robichaux"
 		},
-		"Fruit-seller / la Fruitière": {
-			"name": "Fruit-seller / la Fruitière"
+		"Charles Devillier": {
+			"name": "Charles Devillier"
 		},
-		"Cellist": {
-			"name": "Cellist"
+		"Elie Charpentier": {
+			"name": "Elie Charpentier"
 		},
-		"L'Animateur": {
-			"name": "L'Animateur"
+		"Claude Gaudet": {
+			"name": "Claude Gaudet"
 		},
-		"Fanchon la Poche": {
-			"name": "Fanchon la Poche"
+		"Ralph Langlois": {
+			"name": "Ralph Langlois"
 		},
-		"Henriette Lavocat": {
-			"name": "Henriette Lavocat"
+		"Jeanne Moutard": {
+			"name": "Jeanne Moutard"
 		},
-		"Jeannot la Panse": {
-			"name": "Jeannot la Panse"
+		"Alexandre Nezat": {
+			"name": "Alexandre Nezat"
 		},
-		"Scaramouche": {
-			"name": "Scaramouche"
+		"Lucien Noel": {
+			"name": "Lucien Noel"
 		},
-		"Madame Argant": {
-			"name": "Madame Argant"
+		"Joseph Roy": {
+			"name": "Joseph Roy"
+		},
+		"Marie-Claire Savoie": {
+			"name": "Marie-Claire Savoie"
+		},
+		"Claude Robin": {
+			"name": "Claude Robin"
+		},
+		"Nicolas Bordelon": {
+			"name": "Nicolas Bordelon"
+		},
+		"Alexis Autin": {
+			"name": "Alexis Autin"
+		},
+		"Judith Arceneaux": {
+			"name": "Judith Arceneaux"
+		},
+		"Marie Guidroz": {
+			"name": "Marie Guidroz"
+		},
+		"Elizabeth Huff": {
+			"name": "Elizabeth Huff"
+		},
+		"Marie Lavergne": {
+			"name": "Marie Lavergne"
+		},
+		"Pierre Melancon": {
+			"name": "Pierre Melancon"
+		},
+		"Catherine Poirier": {
+			"name": "Catherine Poirier"
+		},
+		"Marie-Louise Sorbier": {
+			"name": "Marie-Louise Sorbier"
+		},
+		"Anne Drouillon": {
+			"name": "Anne Drouillon"
+		},
+		"Marcel Patin": {
+			"name": "Marcel Patin"
 		}
 	}
 }

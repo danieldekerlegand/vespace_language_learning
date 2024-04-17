@@ -4,2759 +4,2683 @@
 			"pos": 0,
 			"data": [
 				{
-					"category": "role",
-					"type": "player",
-					"value": true,
-					"first": "Male Noble Player"
-				},
-				{
-					"category": "role",
+					"category": "trait",
 					"type": "male",
 					"value": true,
-					"first": "Male Noble Player"
+					"first": "Jacob Chauvin"
 				},
 				{
-					"category": "role",
-					"type": "noble",
-					"value": true,
-					"first": "Male Noble Player"
-				},
-				{
-					"category": "progress",
-					"type": "HasTicket",
-					"value": true,
-					"first": "Male Noble Player"
-				},
-				{
-					"category": "progress",
-					"type": "SeenBackstage",
-					"value": false,
-					"first": "Male Noble Player"
-				},
-
-
-				{
-					"category": "role",
-					"type": "player",
-					"value": true,
-					"first": "Female Noble Player"
-				},
-				{
-					"category": "role",
-					"type": "female",
-					"value": true,
-					"first": "Female Noble Player"
-				},
-				{
-					"category": "role",
-					"type": "noble",
-					"value": true,
-					"first": "Female Noble Player"
-				},
-				{
-					"category": "progress",
-					"type": "HasTicket",
-					"value": true,
-					"first": "Female Noble Player"
-				},
-				{
-					"category": "progress",
-					"type": "SeenBackstage",
-					"value": false,
-					"first": "Female Noble Player"
-				},
-
-				
-				{
-					"category": "role",
-					"type": "servant",
-					"value": true,
-					"first": "Servant Player"
-				},
-				{
-					"category": "role",
-					"type": "male",
-					"value": true,
-					"first": "Servant Player"
-				},
-				{
-					"category": "role",
-					"type": "player",
-					"value": true,
-					"first": "Servant Player"
-				},
-				{
-					"category": "progress",
-					"type": "HasTicket",
-					"value": true,
-					"first": "Servant Player"
-				},
-				{
-					"category": "progress",
-					"type": "SeenBackstage",
-					"value": false,
-					"first": "Servant Player"
-				},
-
-
-				{
-					"category": "role",
-					"type": "ticket taker",
-					"value": true,
-					"first": "Marie-Catherine Bienfait, ticket taker"
-				},
-				{
-					"category": "role",
-					"type": "player",
-					"value": false,
-					"first": "Marie-Catherine Bienfait, ticket taker"
-				},
-				{
-					"category": "trait",
-					"type": "agreeable",
-					"value": true,
-					"first": "Marie-Catherine Bienfait, ticket taker"
-				},
-				{
-					"category": "trait",
-					"type": "non-noble",
-					"value": true,
-					"first": "Marie-Catherine Bienfait, ticket taker"
-				},
-				{
-					"category": "trait",
-					"type": "friendly",
-					"value": true,
-					"first": "Marie-Catherine Bienfait, ticket taker"
-				},
-				{
-					"category": "trait",
-					"type": "outgoing",
-					"value": true,
-					"first": "Marie-Catherine Bienfait, ticket taker"
-				},
-
-
-				{
-					"category": "role",
-					"type": "bouncer",
-					"value": true,
-					"first": "Bruno Dufort, semainier"
-				},
-				{
-					"category": "role",
-					"type": "player",
-					"value": false,
-					"first": "Bruno Dufort, semainier"
-				},
-				{
-					"category": "trait",
-					"type": "unfriendly",
-					"value": true,
-					"first": "Bruno Dufort, semainier"
-				},
-				{
-					"category": "trait",
-					"type": "non-noble",
-					"value": true,
-					"first": "Bruno Dufort, semainier"
-				},
-				{
-					"category": "trait",
-					"type": "aggressive",
-					"value": true,
-					"first": "Bruno Dufort, semainier"
-				},
-				{
-					"category": "trait",
-					"type": "unsophisticated",
-					"value": true,
-					"first": "Bruno Dufort, semainier"
-				},
-
-
-				{
-					"category": "network",
-					"type": "credibility",
+					"category": "attribute",
+					"type": "propriety",
 					"value": 40,
-					"first": "Monsieur d'Ain d'Ygeste",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Monsieur d'Ain d'Ygeste",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Monsieur d'Ain d'Ygeste",
-					"second": "Servant Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Monsieur d'Ain d'Ygeste",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Monsieur d'Ain d'Ygeste",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Monsieur d'Ain d'Ygeste",
-					"second": "Servant Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Monsieur d'Ain d'Ygeste",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Monsieur d'Ain d'Ygeste",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Monsieur d'Ain d'Ygeste",
-					"second": "Servant Player"
-				},
-				{
-					"category": "role",
-					"type": "stranger",
-					"value": true,
-					"first": "Monsieur d'Ain d'Ygeste"
-				},
-				{
-					"category": "role",
-					"type": "male",
-					"value": true,
-					"first": "Monsieur d'Ain d'Ygeste"
-				},
-				{
-					"category": "role",
-					"type": "noble",
-					"value": true,
-					"first": "Monsieur d'Ain d'Ygeste"
-				},
-				{
-					"category": "role",
-					"type": "player",
-					"value": false,
-					"first": "Monsieur d'Ain d'Ygeste"
+					"first": "Jacob Chauvin"
 				},
 				{
 					"category": "trait",
-					"type": "noble",
+					"type": "provincial",
 					"value": true,
-					"first": "Monsieur d'Ain d'Ygeste"
+					"first": "Jacob Chauvin"
+				},
+				{
+					"category": "attribute",
+					"type": "self-assuredness",
+					"value": 60,
+					"first": "Jacob Chauvin"
 				},
 				{
 					"category": "trait",
-					"type": "wealthy",
+					"type": "innocent looking",
 					"value": true,
-					"first": "Monsieur d'Ain d'Ygeste"
+					"first": "Jacob Chauvin"
+				},
+				{
+					"category": "attribute",
+					"type": "cultural knowledge",
+					"value": 1,
+					"first": "Jacob Chauvin"
+				},
+				{
+					"category": "attribute",
+					"type": "nosiness",
+					"value": 60,
+					"first": "Jacob Chauvin"
 				},
 				{
 					"category": "trait",
-					"type": "prideful",
+					"type": "flirtatious",
 					"value": true,
-					"first": "Monsieur d'Ain d'Ygeste"
-				},
-				{
-					"category": "trait",
-					"type": "unfriendly",
-					"value": true,
-					"first": "Monsieur d'Ain d'Ygeste"
-				},
-
-
-				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Monsieur d'Hautainville",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Monsieur d'Hautainville",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Monsieur d'Hautainville",
-					"second": "Servant Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Monsieur d'Hautainville",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Monsieur d'Hautainville",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Monsieur d'Hautainville",
-					"second": "Servant Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Monsieur d'Hautainville",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Monsieur d'Hautainville",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Monsieur d'Hautainville",
-					"second": "Servant Player"
-				},
-				{
-					"category": "role",
-					"type": "stranger",
-					"value": true,
-					"first": "Monsieur d'Hautainville"
-				},
-				{
-					"category": "role",
-					"type": "male",
-					"value": true,
-					"first": "Monsieur d'Hautainville"
-				},
-				{
-					"category": "role",
-					"type": "noble",
-					"value": true,
-					"first": "Monsieur d'Hautainville"
-				},
-				{
-					"category": "role",
-					"type": "player",
-					"value": false,
-					"first": "Monsieur d'Hautainville"
-				},
-				{
-					"category": "trait",
-					"type": "noble",
-					"value": true,
-					"first": "Monsieur d'Hautainville"
-				},
-				{
-					"category": "trait",
-					"type": "wealthy",
-					"value": true,
-					"first": "Monsieur d'Hautainville"
-				},
-				{
-					"category": "trait",
-					"type": "very disdainful",
-					"value": true,
-					"first": "Monsieur d'Hautainville"
-				},
-				{
-					"category": "trait",
-					"type": "prideful",
-					"value": true,
-					"first": "Monsieur d'Hautainville"
-				},
-				{
-					"category": "trait",
-					"type": "difficult to get along with",
-					"value": true,
-					"first": "Monsieur d'Hautainville"
-				},
-
-
-				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Monsieur de Gentilly",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Monsieur de Gentilly",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Monsieur de Gentilly",
-					"second": "Servant Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Monsieur de Gentilly",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Monsieur de Gentilly",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Monsieur de Gentilly",
-					"second": "Servant Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Monsieur de Gentilly",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Monsieur de Gentilly",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Monsieur de Gentilly",
-					"second": "Servant Player"
-				},
-				{
-					"category": "role",
-					"type": "acquaintance",
-					"value": true,
-					"first": "Monsieur de Gentilly"
-				},
-				{
-					"category": "role",
-					"type": "male",
-					"value": true,
-					"first": "Monsieur de Gentilly"
-				},
-				{
-					"category": "role",
-					"type": "noble",
-					"value": true,
-					"first": "Monsieur de Gentilly"
-				},
-				{
-					"category": "role",
-					"type": "player",
-					"value": false,
-					"first": "Monsieur de Gentilly"
-				},
-				{
-					"category": "trait",
-					"type": "noble",
-					"value": true,
-					"first": "Monsieur de Gentilly"
-				},
-				{
-					"category": "trait",
-					"type": "very friendly",
-					"value": true,
-					"first": "Monsieur de Gentilly"
-				},
-				{
-					"category": "trait",
-					"type": "helpful",
-					"value": true,
-					"first": "Monsieur de Gentilly"
-				},
-				{
-					"category": "trait",
-					"type": "wealthy",
-					"value": true,
-					"first": "Monsieur de Gentilly"
-				},
-				{
-					"category": "trait",
-					"type": "refined",
-					"value": true,
-					"first": "Monsieur de Gentilly"
-				},
-
-
-				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Monsieur des Trois-Landes",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Monsieur des Trois-Landes",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Monsieur des Trois-Landes",
-					"second": "Servant Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Monsieur des Trois-Landes",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Monsieur des Trois-Landes",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Monsieur des Trois-Landes",
-					"second": "Servant Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Monsieur des Trois-Landes",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Monsieur des Trois-Landes",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Monsieur des Trois-Landes",
-					"second": "Servant Player"
-				},
-				{
-					"category": "role",
-					"type": "acquaintance",
-					"value": true,
-					"first": "Monsieur des Trois-Landes"
-				},
-				{
-					"category": "role",
-					"type": "male",
-					"value": true,
-					"first": "Monsieur des Trois-Landes"
-				},
-				{
-					"category": "role",
-					"type": "noble",
-					"value": true,
-					"first": "Monsieur des Trois-Landes"
-				},
-				{
-					"category": "role",
-					"type": "player",
-					"value": false,
-					"first": "Monsieur des Trois-Landes"
-				},
-				{
-					"category": "trait",
-					"type": "noble",
-					"value": true,
-					"first": "Monsieur des Trois-Landes"
-				},
-				{
-					"category": "trait",
-					"type": "prideful",
-					"value": true,
-					"first": "Monsieur des Trois-Landes"
-				},
-				{
-					"category": "trait",
-					"type": "violent",
-					"value": true,
-					"first": "Monsieur des Trois-Landes"
-				},
-				{
-					"category": "trait",
-					"type": "poor",
-					"value": true,
-					"first": "Monsieur des Trois-Landes"
-				},
-				{
-					"category": "trait",
-					"type": "braggart",
-					"value": true,
-					"first": "Monsieur des Trois-Landes"
-				},
-				{
-					"category": "trait",
-					"type": "either a great friend or an implacable enemy",
-					"value": true,
-					"first": "Monsieur des Trois-Landes"
-				},
-
-
-				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Monsieur d'Issy",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Monsieur d'Issy",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Monsieur d'Issy",
-					"second": "Servant Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Monsieur d'Issy",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Monsieur d'Issy",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Monsieur d'Issy",
-					"second": "Servant Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Monsieur d'Issy",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Monsieur d'Issy",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Monsieur d'Issy",
-					"second": "Servant Player"
-				},
-				{
-					"category": "role",
-					"type": "stranger",
-					"value": true,
-					"first": "Monsieur d'Issy"
-				},
-				{
-					"category": "role",
-					"type": "male",
-					"value": true,
-					"first": "Monsieur d'Issy"
-				},
-				{
-					"category": "role",
-					"type": "noble",
-					"value": true,
-					"first": "Monsieur d'Issy"
-				},
-				{
-					"category": "role",
-					"type": "player",
-					"value": false,
-					"first": "Monsieur d'Issy"
-				},
-				{
-					"category": "trait",
-					"type": "noble",
-					"value": true,
-					"first": "Monsieur d'Issy"
-				},
-				{
-					"category": "trait",
-					"type": "friendly",
-					"value": true,
-					"first": "Monsieur d'Issy"
-				},
-				{
-					"category": "trait",
-					"type": "educated",
-					"value": true,
-					"first": "Monsieur d'Issy"
-				},
-				{
-					"category": "trait",
-					"type": "refined",
-					"value": true,
-					"first": "Monsieur d'Issy"
-				},
-				{
-					"category": "trait",
-					"type": "somewhat sneaky",
-					"value": true,
-					"first": "Monsieur d'Issy"
-				},
-
-
-				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Madame de Blasé-l'Evêque",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Madame de Blasé-l'Evêque",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Madame de Blasé-l'Evêque",
-					"second": "Servant Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Madame de Blasé-l'Evêque",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Madame de Blasé-l'Evêque",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Madame de Blasé-l'Evêque",
-					"second": "Servant Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Madame de Blasé-l'Evêque",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Madame de Blasé-l'Evêque",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Madame de Blasé-l'Evêque",
-					"second": "Servant Player"
-				},
-				{
-					"category": "role",
-					"type": "stranger",
-					"value": true,
-					"first": "Madame de Blasé-l'Evêque"
-				},
-				{
-					"category": "role",
-					"type": "female",
-					"value": true,
-					"first": "Madame de Blasé-l'Evêque"
-				},
-				{
-					"category": "role",
-					"type": "noble",
-					"value": true,
-					"first": "Madame de Blasé-l'Evêque"
-				},
-				{
-					"category": "role",
-					"type": "player",
-					"value": false,
-					"first": "Madame de Blasé-l'Evêque"
-				},
-				{
-					"category": "trait",
-					"type": "noble",
-					"value": true,
-					"first": "Madame de Blasé-l'Evêque"
-				},
-				{
-					"category": "trait",
-					"type": "prideful",
-					"value": true,
-					"first": "Madame de Blasé-l'Evêque"
-				},
-				{
-					"category": "trait",
-					"type": "supercilious",
-					"value": true,
-					"first": "Madame de Blasé-l'Evêque"
-				},
-				{
-					"category": "trait",
-					"type": "devout",
-					"value": true,
-					"first": "Madame de Blasé-l'Evêque"
-				},
-				{
-					"category": "trait",
-					"type": "not prone to seduction",
-					"value": true,
-					"first": "Madame de Blasé-l'Evêque"
-				},
-
-
-				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Madame Argant",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Madame Argant",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Madame Argant",
-					"second": "Servant Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Madame Argant",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Madame Argant",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Madame Argant",
-					"second": "Servant Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Madame Argant",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Madame Argant",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Madame Argant",
-					"second": "Servant Player"
-				},
-				{
-					"category": "role",
-					"type": "stranger",
-					"value": true,
-					"first": "Madame Argant"
-				},
-				{
-					"category": "role",
-					"type": "female",
-					"value": true,
-					"first": "Madame Argant"
-				},
-				{
-					"category": "role",
-					"type": "non-noble",
-					"value": true,
-					"first": "Madame Argant"
-				},
-				{
-					"category": "role",
-					"type": "player",
-					"value": false,
-					"first": "Madame Argant"
-				},
-				{
-					"category": "trait",
-					"type": "rich",
-					"value": true,
-					"first": "Madame Argant"
-				},
-				{
-					"category": "trait",
-					"type": "bourgeois",
-					"value": true,
-					"first": "Madame Argant"
-				},
-				{
-					"category": "trait",
-					"type": "amorous",
-					"value": true,
-					"first": "Madame Argant"
-				},
-				{
-					"category": "trait",
-					"type": "not friendly",
-					"value": true,
-					"first": "Madame Argant"
-				},
-				{
-					"category": "trait",
-					"type": "religious",
-					"value": true,
-					"first": "Madame Argant"
-				},
-
-
-
-				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Chérubin",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Chérubin",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Chérubin",
-					"second": "Servant Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Chérubin",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Chérubin",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Chérubin",
-					"second": "Servant Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Chérubin",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Chérubin",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Chérubin",
-					"second": "Servant Player"
-				},
-				{
-					"category": "relationship",
-					"type": "esteem",
-					"value": true,
-					"first": "Chérubin",
-					"second": "Servant Player"
-				},
-				{
-					"category": "relationship",
-					"type": "ally",
-					"value": true,
-					"first": "Chérubin",
-					"second": "Servant Player"
-				},
-				{
-					"category": "role",
-					"type": "acquaintance",
-					"value": true,
-					"first": "Chérubin"
-				},
-				{
-					"category": "role",
-					"type": "male",
-					"value": true,
-					"first": "Chérubin"
-				},
-				{
-					"category": "role",
-					"type": "servant",
-					"value": true,
-					"first": "Chérubin"
-				},
-				{
-					"category": "role",
-					"type": "player",
-					"value": false,
-					"first": "Chérubin"
-				},
-				{
-					"category": "trait",
-					"type": "servant",
-					"value": true,
-					"first": "Chérubin"
-				},
-				{
-					"category": "trait",
-					"type": "servant",
-					"value": true,
-					"first": "Chérubin"
-				},
-				{
-					"category": "trait",
-					"type": "non-noble",
-					"value": true,
-					"first": "Chérubin"
-				},
-				{
-					"category": "trait",
-					"type": "intelligent",
-					"value": true,
-					"first": "Chérubin"
-				},
-				{
-					"category": "trait",
-					"type": "witty",
-					"value": true,
-					"first": "Chérubin"
-				},
-				{
-					"category": "trait",
-					"type": "clever",
-					"value": true,
-					"first": "Chérubin"
+					"first": "Jacob Chauvin"
 				},
 				{
 					"category": "trait",
 					"type": "charming",
 					"value": true,
-					"first": "Chérubin"
+					"first": "Jacob Chauvin"
 				},
 				{
 					"category": "trait",
-					"type": "very friendly",
+					"type": "wearing a first responder uniform",
 					"value": true,
-					"first": "Chérubin"
+					"first": "Jacob Chauvin"
 				},
 				{
 					"category": "trait",
-					"type": "seductive",
+					"type": "elegantly dressed",
 					"value": true,
-					"first": "Chérubin"
+					"first": "Jacob Chauvin"
 				},
 				{
 					"category": "trait",
-					"type": "poor",
+					"type": "disdainful",
 					"value": true,
-					"first": "Chérubin"
+					"first": "Jacob Chauvin"
+				},
+				{
+					"category": "attribute",
+					"type": "cunningness",
+					"value": 60,
+					"first": "Jacob Chauvin"
+				},
+				{
+					"category": "trait",
+					"type": "young",
+					"value": true,
+					"first": "Jacob Chauvin"
+				},
+				{
+					"category": "relationship",
+					"type": "married",
+					"value": true,
+					"first": "Jacob Chauvin",
+					"second": "Renee Hebert"
+				},
+				{
+					"category": "trait",
+					"type": "joker",
+					"value": true,
+					"first": "Jacob Chauvin"
 				},
 				{
 					"category": "relationship",
 					"type": "ally",
 					"value": true,
-					"first": "Chérubin",
-					"second": "Servant Player"
+					"first": "Jacob Chauvin",
+					"second": "Adrianne Billedeaux"
 				},
-
-				
 				{
-					"category": "network",
-					"type": "credibility",
+					"category": "relationship",
+					"type": "friends",
+					"value": true,
+					"first": "Jacob Chauvin",
+					"second": "Adrianne Billedeaux"
+				},
+				{
+					"category": "relationship",
+					"type": "lovers",
+					"value": true,
+					"first": "Jacob Chauvin",
+					"second": "Jeanne Moutard"
+				},
+				{
+					"category": "trait",
+					"type": "inconsistent",
+					"value": true,
+					"first": "Jacob Chauvin"
+				},
+				{
+					"category": "trait",
+					"type": "rich person",
+					"value": true,
+					"first": "Alphonse Martin"
+				},
+				{
+					"category": "trait",
+					"type": "male",
+					"value": true,
+					"first": "Alphonse Martin"
+				},
+				{
+					"category": "attribute",
+					"type": "sensitiveness",
+					"value": 75,
+					"first": "Alphonse Martin"
+				},
+				{
+					"category": "status",
+					"type": "upset",
+					"value": true,
+					"first": "Alphonse Martin"
+				},
+				{
+					"category": "trait",
+					"type": "rich",
+					"value": false,
+					"first": "Alphonse Martin"
+				},
+				{
+					"category": "trait",
+					"type": "innocent looking",
+					"value": true,
+					"first": "Alphonse Martin"
+				},
+				{
+					"category": "trait",
+					"type": "credulous",
+					"value": true,
+					"first": "Alphonse Martin"
+				},
+				{
+					"category": "relationship",
+					"type": "friends",
+					"value": true,
+					"first": "Alphonse Martin",
+					"second": "Christophe Bertrand"
+				},
+				{
+					"category": "attribute",
+					"type": "propriety",
+					"value": 25,
+					"first": "Grace Huval"
+				},
+				{
+					"category": "trait",
+					"type": "female",
+					"value": true,
+					"first": "Grace Huval"
+				},
+				{
+					"category": "trait",
+					"type": "beautiful",
+					"value": true,
+					"first": "Grace Huval"
+				},
+				{
+					"category": "trait",
+					"type": "greedy",
+					"value": true,
+					"first": "Grace Huval"
+				},
+				{
+					"category": "attribute",
+					"type": "charisma",
+					"value": 80,
+					"first": "Grace Huval"
+				},
+				{
+					"category": "trait",
+					"type": "rich person",
+					"value": false,
+					"first": "Grace Huval"
+				},
+				{
+					"category": "trait",
+					"type": "charming",
+					"value": true,
+					"first": "Grace Huval"
+				},
+				{
+					"category": "trait",
+					"type": "clergy",
+					"value": true,
+					"first": "Ralph Aucoin"
+				},
+				{
+					"category": "status",
+					"type": "inebriated",
+					"value": true,
+					"first": "Ralph Aucoin"
+				},
+				{
+					"category": "trait",
+					"type": "mocking",
+					"value": true,
+					"first": "Ralph Aucoin"
+				},
+				{
+					"category": "trait",
+					"type": "hypocritical",
+					"value": true,
+					"first": "Ralph Aucoin"
+				},
+				{
+					"category": "trait",
+					"type": "inconsistent",
+					"value": true,
+					"first": "Ralph Aucoin"
+				},
+				{
+					"category": "relationship",
+					"type": "ally",
+					"value": true,
+					"first": "Ralph Aucoin",
+					"second": "Francois LeBlanc"
+				},
+				{
+					"category": "trait",
+					"type": "devout",
+					"value": true,
+					"first": "Ralph Aucoin"
+				},
+				{
+					"category": "trait",
+					"type": "intelligent",
+					"value": false,
+					"first": "Ralph Aucoin"
+				},
+				{
+					"category": "attribute",
+					"type": "charisma",
+					"value": 15,
+					"first": "Ralph Aucoin"
+				},
+				{
+					"category": "attribute",
+					"type": "sophistication",
 					"value": 40,
-					"first": "Valère",
-					"second": "Male Noble Player"
+					"first": "Ralph Aucoin"
+				},
+				{
+					"category": "trait",
+					"type": "modest",
+					"value": true,
+					"first": "Ralph Aucoin"
 				},
 				{
 					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Valère",
-					"second": "Female Noble Player"
+					"type": "affinity",
+					"value": 61,
+					"first": "Ralph Aucoin",
+					"second": "Christophe Bertrand"
+				},
+				{
+					"category": "trait",
+					"type": "stagehand",
+					"value": true,
+					"first": "Cora DeCuir"
 				},
 				{
 					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Valère",
-					"second": "Servant Player"
+					"type": "affinity",
+					"value": 60,
+					"first": "Cora DeCuir",
+					"second": "Jacob Chauvin"
 				},
 				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Valère",
-					"second": "Male Noble Player"
+					"category": "attribute",
+					"type": "nosiness",
+					"value": 50,
+					"first": "Cora DeCuir"
 				},
 				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Valère",
-					"second": "Female Noble Player"
+					"category": "trait",
+					"type": "female",
+					"value": true,
+					"first": "Cora DeCuir"
 				},
 				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Valère",
-					"second": "Servant Player"
+					"category": "trait",
+					"type": "poor",
+					"value": true,
+					"first": "Cora DeCuir"
+				},
+				{
+					"category": "socialrecordlabel",
+					"type": "flirted with",
+					"value": true,
+					"first": "Cora DeCuir",
+					"second": "Jacob Chauvin"
+				},
+				{
+					"category": "trait",
+					"type": "virtuous",
+					"value": false,
+					"first": "Cora DeCuir"
+				},
+				{
+					"category": "trait",
+					"type": "devout",
+					"value": false,
+					"first": "Cora DeCuir"
+				},
+				{
+					"category": "trait",
+					"type": "indiscreet",
+					"value": true,
+					"first": "Cora DeCuir"
+				},
+				{
+					"category": "trait",
+					"type": "flirtatious",
+					"value": true,
+					"first": "Cora DeCuir"
+				},
+				{
+					"category": "trait",
+					"type": "stagehand",
+					"value": true,
+					"first": "Francois LeBlanc"
+				},
+				{
+					"category": "attribute",
+					"type": "sophistication",
+					"value": 45,
+					"first": "Francois LeBlanc"
+				},
+				{
+					"category": "attribute",
+					"type": "propriety",
+					"value": 45,
+					"first": "Francois LeBlanc"
+				},
+				{
+					"category": "directedstatus",
+					"type": "financially dependent on",
+					"value": true,
+					"first": "Francois LeBlanc",
+					"second": "Alphonse Martin"
+				},
+				{
+					"category": "trait",
+					"type": "wearing a uniform",
+					"value": true,
+					"first": "Francois LeBlanc"
 				},
 				{
 					"category": "network",
 					"type": "emulation",
+					"value": 61,
+					"first": "Francois LeBlanc",
+					"second": "Alexandre Nezat"
+				},
+				{
+					"category": "relationship",
+					"type": "strangers",
+					"value": false,
+					"first": "Francois LeBlanc",
+					"second": "Alphonse Martin"
+				},
+				{
+					"category": "relationship",
+					"type": "strangers",
+					"value": false,
+					"first": "Francois LeBlanc",
+					"second": "Jean-Jacques"
+				},
+				{
+					"category": "directedstatus",
+					"type": "resentful of",
+					"value": true,
+					"first": "Francois LeBlanc",
+					"second": "Alphonse Martin"
+				},
+				{
+					"category": "network",
+					"type": "curiosity",
+					"value": 61,
+					"first": "Francois LeBlanc",
+					"second": "Grace Huval"
+				},
+				{
+					"category": "relationship",
+					"type": "ally",
+					"value": true,
+					"first": "Francois LeBlanc",
+					"second": "Alexandre Nezat"
+				},
+				{
+					"category": "trait",
+					"type": "virtuous",
+					"value": false,
+					"first": "Francois LeBlanc"
+				},
+				{
+					"category": "trait",
+					"type": "inconsistent",
+					"value": true,
+					"first": "Francois LeBlanc"
+				},
+				{
+					"category": "trait",
+					"type": "innocent looking",
+					"value": true,
+					"first": "Francois LeBlanc"
+				},
+				{
+					"category": "trait",
+					"type": "joker",
+					"value": true,
+					"first": "Francois LeBlanc"
+				},
+				{
+					"category": "trait",
+					"type": "male",
+					"value": true,
+					"first": "Francois LeBlanc"
+				},
+				{
+					"category": "trait",
+					"type": "ambitious",
+					"value": true,
+					"first": "Francois LeBlanc"
+				},
+				{
+					"category": "trait",
+					"type": "child",
+					"value": true,
+					"first": "Jean Billeaud"
+				},
+				{
+					"category": "trait",
+					"type": "shy",
+					"value": true,
+					"first": "Jean Billeaud"
+				},
+				{
+					"category": "trait",
+					"type": "awkward",
+					"value": true,
+					"first": "Jean Billeaud"
+				},
+				{
+					"category": "trait",
+					"type": "rich person",
+					"value": false,
+					"first": "Jean Billeaud"
+				},
+				{
+					"category": "trait",
+					"type": "unctuous",
+					"value": true,
+					"first": "Jean Billeaud"
+				},
+				{
+					"category": "trait",
+					"type": "modest",
+					"value": false,
+					"first": "Jean Billeaud"
+				},
+				{
+					"category": "attribute",
+					"type": "self-assuredness",
+					"value": 25,
+					"first": "Jean Billeaud"
+				},
+				{
+					"category": "attribute",
+					"type": "sensitiveness",
+					"value": 80,
+					"first": "Jean Billeaud"
+				},
+				{
+					"category": "trait",
+					"type": "male",
+					"value": true,
+					"first": "Jean Billeaud"
+				},
+				{
+					"category": "trait",
+					"type": "provincial",
+					"value": true,
+					"first": "Jean Billeaud"
+				},
+				{
+					"category": "trait",
+					"type": "intelligent",
+					"value": true,
+					"first": "Jean Billeaud"
+				},
+				{
+					"category": "network",
+					"type": "affinity",
+					"value": 95,
+					"first": "Jean Billeaud",
+					"second": "Victoria Guidry"
+				},
+				{
+					"category": "relationship",
+					"type": "friends",
+					"value": true,
+					"first": "Jean Billeaud",
+					"second": "Victoria Guidry"
+				},
+				{
+					"category": "network",
+					"type": "affinity",
+					"value": 31,
+					"first": "Christophe Bertrand",
+					"second": "Ralph Aucoin"
+				},
+				{
+					"category": "attribute",
+					"type": "propriety",
+					"value": 75,
+					"first": "Christophe Bertrand"
+				},
+				{
+					"category": "trait",
+					"type": "virtuous",
+					"value": true,
+					"first": "Christophe Bertrand"
+				},
+				{
+					"category": "trait",
+					"type": "clergy",
+					"value": true,
+					"first": "Christophe Bertrand"
+				},
+				{
+					"category": "trait",
+					"type": "devout",
+					"value": true,
+					"first": "Christophe Bertrand"
+				},
+				{
+					"category": "relationship",
+					"type": "friends",
+					"value": true,
+					"first": "Christophe Bertrand",
+					"second": "Alphonse Martin"
+				},
+				{
+					"category": "trait",
+					"type": "male",
+					"value": true,
+					"first": "Christophe Bertrand"
+				},
+				{
+					"category": "trait",
+					"type": "kind",
+					"value": true,
+					"first": "Christophe Bertrand"
+				},
+				{
+					"category": "trait",
+					"type": "stagehand",
+					"value": true,
+					"first": "Elizabeth Landry"
+				},
+				{
+					"category": "attribute",
+					"type": "cunningness",
+					"value": 61,
+					"first": "Elizabeth Landry"
+				},
+				{
+					"category": "attribute",
+					"type": "sophistication",
+					"value": 45,
+					"first": "Elizabeth Landry"
+				},
+				{
+					"category": "attribute",
+					"type": "self-assuredness",
+					"value": 61,
+					"first": "Elizabeth Landry"
+				},
+				{
+					"category": "directedstatus",
+					"type": "jealous of",
+					"value": true,
+					"first": "Elizabeth Landry",
+					"second": "Grace Huval"
+				},
+				{
+					"category": "network",
+					"type": "affinity",
+					"value": 70,
+					"first": "Elizabeth Landry",
+					"second": "Francois LeBlanc"
+				},
+				{
+					"category": "relationship",
+					"type": "ally",
+					"value": true,
+					"first": "Elizabeth Landry",
+					"second": "Jean Billeaud"
+				},
+				{
+					"category": "status",
+					"type": "happy",
+					"value": true,
+					"first": "Elizabeth Landry"
+				},
+				{
+					"category": "trait",
+					"type": "innocent looking",
+					"value": true,
+					"first": "Elizabeth Landry"
+				},
+				{
+					"category": "trait",
+					"type": "beautiful",
+					"value": true,
+					"first": "Elizabeth Landry"
+				},
+				{
+					"category": "trait",
+					"type": "wearing a uniform",
+					"value": true,
+					"first": "Elizabeth Landry"
+				},
+				{
+					"category": "trait",
+					"type": "talkative",
+					"value": true,
+					"first": "Elizabeth Landry"
+				},
+				{
+					"category": "trait",
+					"type": "young",
+					"value": true,
+					"first": "Elizabeth Landry"
+				},
+				{
+					"category": "directedstatus",
+					"type": "financially dependent on",
+					"value": true,
+					"first": "Elizabeth Landry",
+					"second": "Celila Broussard"
+				},
+				{
+					"category": "directedstatus",
+					"type": "financially dependent on",
+					"value": true,
+					"first": "Elizabeth Landry",
+					"second": "Celila Broussard"
+				},
+				{
+					"category": "attribute",
+					"type": "propriety",
+					"value": 50,
+					"first": "Renee Hebert"
+				},
+				{
+					"category": "trait",
+					"type": "female",
+					"value": true,
+					"first": "Renee Hebert"
+				},
+				{
+					"category": "trait",
+					"type": "devout",
+					"value": true,
+					"first": "Renee Hebert"
+				},
+				{
+					"category": "trait",
+					"type": "credulous",
+					"value": true,
+					"first": "Renee Hebert"
+				},
+				{
+					"category": "relationship",
+					"type": "married",
+					"value": true,
+					"first": "Renee Hebert",
+					"second": "Jacob Chauvin"
+				},
+				{
+					"category": "trait",
+					"type": "young",
+					"value": false,
+					"first": "Renee Hebert"
+				},
+				{
+					"category": "directedstatus",
+					"type": "trusts",
+					"value": true,
+					"first": "Renee Hebert",
+					"second": "Jacob Chauvin"
+				},
+				{
+					"category": "attribute",
+					"type": "charisma",
+					"value": 40,
+					"first": "Renee Hebert"
+				},
+				{
+					"category": "trait",
+					"type": "attendee",
+					"value": true,
+					"first": "Renee Hebert"
+				},
+				{
+					"category": "trait",
+					"type": "talkative",
+					"value": true,
+					"first": "Renee Hebert"
+				},
+				{
+					"category": "trait",
+					"type": "female",
+					"value": true,
+					"first": "Victoria Guidry"
+				},
+				{
+					"category": "trait",
+					"type": "young",
+					"value": true,
+					"first": "Victoria Guidry"
+				},
+				{
+					"category": "directedstatus",
+					"type": "cares for",
+					"value": true,
+					"first": "Victoria Guidry",
+					"second": "Jean Billeaud"
+				},
+				{
+					"category": "network",
+					"type": "affinity",
+					"value": 75,
+					"first": "Victoria Guidry",
+					"second": "Jean Billeaud"
+				},
+				{
+					"category": "trait",
+					"type": "beautiful",
+					"value": true,
+					"first": "Victoria Guidry"
+				},
+				{
+					"category": "trait",
+					"type": "rich person",
+					"value": false,
+					"first": "Victoria Guidry"
+				},
+				{
+					"category": "trait",
+					"type": "provincial",
+					"value": true,
+					"first": "Victoria Guidry"
+				},
+				{
+					"category": "relationship",
+					"type": "friends",
+					"value": true,
+					"first": "Victoria Guidry",
+					"second": "Jean Billeaud"
+				},
+				{
+					"category": "attribute",
+					"type": "propriety",
+					"value": 70,
+					"first": "Adrianne Billedeaux"
+				},
+				{
+					"category": "trait",
+					"type": "rich person",
+					"value": true,
+					"first": "Adrianne Billedeaux"
+				},
+				{
+					"category": "attribute",
+					"type": "social standing",
+					"value": 80,
+					"first": "Adrianne Billedeaux"
+				},
+				{
+					"category": "trait",
+					"type": "male",
+					"value": true,
+					"first": "Adrianne Billedeaux"
+				},
+				{
+					"category": "trait",
+					"type": "young",
+					"value": true,
+					"first": "Adrianne Billedeaux"
+				},
+				{
+					"category": "attribute",
+					"type": "cultural knowledge",
+					"value": 70,
+					"first": "Adrianne Billedeaux"
+				},
+				{
+					"category": "trait",
+					"type": "penetrating",
+					"value": true,
+					"first": "Adrianne Billedeaux"
+				},
+				{
+					"category": "relationship",
+					"type": "ally",
+					"value": true,
+					"first": "Adrianne Billedeaux",
+					"second": "Jacob Chauvin"
+				},
+				{
+					"category": "relationship",
+					"type": "friends",
+					"value": true,
+					"first": "Adrianne Billedeaux",
+					"second": "Jacob Chauvin"
+				},
+				{
+					"category": "network",
+					"type": "credibility",
+					"value": 55,
+					"first": "Adrianne Billedeaux",
+					"second": "Elizabeth Huff"
+				},
+				{
+					"category": "network",
+					"type": "curiosity",
+					"value": 65,
+					"first": "Adrianne Billedeaux",
+					"second": "Elizabeth Huff"
+				},
+				{
+					"category": "trait",
+					"type": "male",
+					"value": true,
+					"first": "Jeanne Comeaux"
+				},
+				{
+					"category": "trait",
+					"type": "child",
+					"value": true,
+					"first": "Jeanne Comeaux"
+				},
+				{
+					"category": "trait",
+					"type": "shy",
+					"value": true,
+					"first": "Jeanne Comeaux"
+				},
+				{
+					"category": "relationship",
+					"type": "friends",
+					"value": true,
+					"first": "Jeanne Comeaux",
+					"second": "Jean Billeaud"
+				},
+				{
+					"category": "trait",
+					"type": "awkward",
+					"value": true,
+					"first": "Jeanne Comeaux"
+				},
+				{
+					"category": "trait",
+					"type": "beautiful",
+					"value": false,
+					"first": "Jeanne Comeaux"
+				},
+				{
+					"category": "attribute",
+					"type": "charisma",
+					"value": 15,
+					"first": "Jeanne Comeaux"
+				},
+				{
+					"category": "trait",
+					"type": "male",
+					"value": true,
+					"first": "Dustin Gaspard"
+				},
+				{
+					"category": "trait",
+					"type": "police officer",
+					"value": true,
+					"first": "Dustin Gaspard"
+				},
+				{
+					"category": "trait",
+					"type": "young",
+					"value": true,
+					"first": "Dustin Gaspard"
+				},
+				{
+					"category": "trait",
+					"type": "provincial",
+					"value": true,
+					"first": "Dustin Gaspard"
+				},
+				{
+					"category": "trait",
+					"type": "virtuous",
+					"value": true,
+					"first": "Dustin Gaspard"
+				},
+				{
+					"category": "trait",
+					"type": "rich person",
+					"value": false,
+					"first": "Dustin Gaspard"
+				},
+				{
+					"category": "attribute",
+					"type": "self-assuredness",
+					"value": 70,
+					"first": "Dustin Gaspard"
+				},
+				{
+					"category": "attribute",
+					"type": "charisma",
+					"value": 70,
+					"first": "Dustin Gaspard"
+				},
+				{
+					"category": "trait",
+					"type": "innocent looking",
+					"value": true,
+					"first": "Dustin Gaspard"
+				},
+				{
+					"category": "relationship",
+					"type": "rivals",
+					"value": true,
+					"first": "Dustin Gaspard",
+					"second": "Claude Robin"
+				},
+				{
+					"category": "relationship",
+					"type": "friends",
+					"value": true,
+					"first": "Dustin Gaspard",
+					"second": "Alexandre Nezat"
+				},
+				{
+					"category": "attribute",
+					"type": "cultural knowledge",
+					"value": 45,
+					"first": "Dustin Gaspard"
+				},
+				{
+					"category": "socialrecordlabel",
+					"type": "harmed",
+					"value": true,
+					"first": "Dustin Gaspard",
+					"second": "Claude Robin"
+				},
+				{
+					"category": "attribute",
+					"type": "propriety",
 					"value": 30,
-					"first": "Valère",
-					"second": "Male Noble Player"
+					"first": "Mary Delahoussaye"
+				},
+				{
+					"category": "trait",
+					"type": "merchant",
+					"value": true,
+					"first": "Mary Delahoussaye"
+				},
+				{
+					"category": "trait",
+					"type": "poor",
+					"value": true,
+					"first": "Mary Delahoussaye"
+				},
+				{
+					"category": "trait",
+					"type": "provincial",
+					"value": true,
+					"first": "Mary Delahoussaye"
+				},
+				{
+					"category": "trait",
+					"type": "boorish",
+					"value": true,
+					"first": "Mary Delahoussaye"
+				},
+				{
+					"category": "trait",
+					"type": "stagehand",
+					"value": true,
+					"first": "Théo Arnaud"
+				},
+				{
+					"category": "trait",
+					"type": "rich",
+					"value": false,
+					"first": "Théo Arnaud"
+				},
+				{
+					"category": "attribute",
+					"type": "cunningness",
+					"value": 70,
+					"first": "Théo Arnaud"
+				},
+				{
+					"category": "trait",
+					"type": "greedy",
+					"value": true,
+					"first": "Théo Arnaud"
+				},
+				{
+					"category": "attribute",
+					"type": "propriety",
+					"value": 85,
+					"first": "Celila Broussard"
+				},
+				{
+					"category": "trait",
+					"type": "rich person",
+					"value": true,
+					"first": "Celila Broussard"
+				},
+				{
+					"category": "trait",
+					"type": "female",
+					"value": true,
+					"first": "Celila Broussard"
+				},
+				{
+					"category": "trait",
+					"type": "virtuous",
+					"value": true,
+					"first": "Celila Broussard"
+				},
+				{
+					"category": "attribute",
+					"type": "cultural knowledge",
+					"value": 75,
+					"first": "Celila Broussard"
+				},
+				{
+					"category": "attribute",
+					"type": "sophistication",
+					"value": 70,
+					"first": "Celila Broussard"
+				},
+				{
+					"category": "attribute",
+					"type": "charisma",
+					"value": 30,
+					"first": "Celila Broussard"
+				},
+				{
+					"category": "trait",
+					"type": "generous",
+					"value": true,
+					"first": "Celila Broussard"
+				},
+				{
+					"category": "status",
+					"type": "embarrassed",
+					"value": true,
+					"first": "Celila Broussard"
+				},
+				{
+					"category": "trait",
+					"type": "beautiful",
+					"value": false,
+					"first": "Celila Broussard"
+				},
+				{
+					"category": "trait",
+					"type": "kind",
+					"value": true,
+					"first": "Celila Broussard"
+				},
+				{
+					"category": "relationship",
+					"type": "esteem",
+					"value": false,
+					"first": "Celila Broussard",
+					"second": "Ralph Aucoin"
+				},
+				{
+					"category": "trait",
+					"type": "rich",
+					"value": true,
+					"first": "Celila Broussard"
+				},
+				{
+					"category": "relationship",
+					"type": "ally",
+					"value": true,
+					"first": "Celila Broussard",
+					"second": "Elizabeth Landry"
+				},
+				{
+					"category": "directedstatus",
+					"type": "intimidates",
+					"value": true,
+					"first": "Celila Broussard",
+					"second": "Dustin Gaspard"
+				},
+				{
+					"category": "trait",
+					"type": "talkative",
+					"value": false,
+					"first": "Celila Broussard"
+				},
+				{
+					"category": "trait",
+					"type": "female",
+					"value": true,
+					"first": "Amy Robichaux"
+				},
+				{
+					"category": "directedstatus",
+					"type": "intimidates",
+					"value": true,
+					"first": "Amy Robichaux",
+					"second": "Jean Billeaud"
+				},
+				{
+					"category": "trait",
+					"type": "cold",
+					"value": true,
+					"first": "Amy Robichaux"
+				},
+				{
+					"category": "attribute",
+					"type": "sensitiveness",
+					"value": 30,
+					"first": "Amy Robichaux"
+				},
+				{
+					"category": "trait",
+					"type": "devout",
+					"value": true,
+					"first": "Amy Robichaux"
+				},
+				{
+					"category": "trait",
+					"type": "disdainful",
+					"value": true,
+					"first": "Amy Robichaux"
+				},
+				{
+					"category": "trait",
+					"type": "beautiful",
+					"value": false,
+					"first": "Amy Robichaux"
+				},
+				{
+					"category": "attribute",
+					"type": "propriety",
+					"value": 25,
+					"first": "Charles Devillier"
+				},
+				{
+					"category": "trait",
+					"type": "government official",
+					"value": true,
+					"first": "Charles Devillier"
+				},
+				{
+					"category": "status",
+					"type": "inebriated",
+					"value": true,
+					"first": "Charles Devillier"
+				},
+				{
+					"category": "trait",
+					"type": "kind",
+					"value": false,
+					"first": "Charles Devillier"
+				},
+				{
+					"category": "attribute",
+					"type": "cunningness",
+					"value": 60,
+					"first": "Charles Devillier"
+				},
+				{
+					"category": "trait",
+					"type": "poorly dressed",
+					"value": true,
+					"first": "Charles Devillier"
+				},
+				{
+					"category": "trait",
+					"type": "boorish",
+					"value": true,
+					"first": "Charles Devillier"
+				},
+				{
+					"category": "trait",
+					"type": "innocent looking",
+					"value": true,
+					"first": "Charles Devillier"
+				},
+				{
+					"category": "network",
+					"type": "credibility",
+					"value": 65,
+					"first": "Charles Devillier",
+					"second": "Elizabeth Huff"
+				},
+				{
+					"category": "network",
+					"type": "curiosity",
+					"value": 75,
+					"first": "Charles Devillier",
+					"second": "Elizabeth Huff"
+				},
+				{
+					"category": "trait",
+					"type": "criminal",
+					"value": true,
+					"first": "Elie Charpentier"
+				},
+				{
+					"category": "trait",
+					"type": "female",
+					"value": true,
+					"first": "Elie Charpentier"
+				},
+				{
+					"category": "trait",
+					"type": "beautiful",
+					"value": true,
+					"first": "Elie Charpentier"
+				},
+				{
+					"category": "attribute",
+					"type": "sophistication",
+					"value": 20,
+					"first": "Elie Charpentier"
+				},
+				{
+					"category": "trait",
+					"type": "rich person",
+					"value": false,
+					"first": "Elie Charpentier"
+				},
+				{
+					"category": "trait",
+					"type": "flirtatious",
+					"value": true,
+					"first": "Elie Charpentier"
+				},
+				{
+					"category": "attribute",
+					"type": "propriety",
+					"value": 20,
+					"first": "Elie Charpentier"
+				},
+				{
+					"category": "trait",
+					"type": "security guard",
+					"value": true,
+					"first": "Elie Charpentier"
+				},
+				{
+					"category": "trait",
+					"type": "male",
+					"value": true,
+					"first": "Claude Gaudet"
+				},
+				{
+					"category": "attribute",
+					"type": "propriety",
+					"value": 20,
+					"first": "Claude Gaudet"
+				},
+				{
+					"category": "attribute",
+					"type": "self-assuredness",
+					"value": 80,
+					"first": "Claude Gaudet"
+				},
+				{
+					"category": "trait",
+					"type": "flirtatious",
+					"value": true,
+					"first": "Claude Gaudet"
+				},
+				{
+					"category": "attribute",
+					"type": "propriety",
+					"value": 50,
+					"first": "Claude Gaudet"
+				},
+				{
+					"category": "attribute",
+					"type": "cultural knowledge",
+					"value": 75,
+					"first": "Claude Gaudet"
+				},
+				{
+					"category": "network",
+					"type": "affinity",
+					"value": 78,
+					"first": "Claude Gaudet",
+					"second": "Dustin Gaspard"
+				},
+				{
+					"category": "trait",
+					"type": "young",
+					"value": true,
+					"first": "Claude Gaudet"
+				},
+				{
+					"category": "attribute",
+					"type": "cultural knowledge",
+					"value": 90,
+					"first": "Ralph Langlois"
+				},
+				{
+					"category": "attribute",
+					"type": "charisma",
+					"value": 30,
+					"first": "Ralph Langlois"
+				},
+				{
+					"category": "attribute",
+					"type": "nosiness",
+					"value": 60,
+					"first": "Ralph Langlois"
+				},
+				{
+					"category": "network",
+					"type": "affinity",
+					"value": 41,
+					"first": "Ralph Langlois",
+					"second": "Elie Charpentier"
+				},
+				{
+					"category": "relationship",
+					"type": "rivals",
+					"value": true,
+					"first": "Ralph Langlois",
+					"second": "Mary Delahoussaye"
+				},
+				{
+					"category": "network",
+					"type": "affinity",
+					"value": 51,
+					"first": "Ralph Langlois",
+					"second": "Charles Devillier"
+				},
+				{
+					"category": "network",
+					"type": "affinity",
+					"value": 51,
+					"first": "Ralph Langlois",
+					"second": "Renee Hebert"
+				},
+				{
+					"category": "trait",
+					"type": "organizer",
+					"value": true,
+					"first": "Ralph Langlois"
+				},
+				{
+					"category": "trait",
+					"type": "security guard",
+					"value": true,
+					"first": "Ralph Langlois"
+				},
+				{
+					"category": "trait",
+					"type": "talkative",
+					"value": true,
+					"first": "Ralph Langlois"
+				},
+				{
+					"category": "attribute",
+					"type": "self-assuredness",
+					"value": 90,
+					"first": "Ralph Langlois"
 				},
 				{
 					"category": "network",
 					"type": "emulation",
-					"value": 30,
-					"first": "Valère",
-					"second": "Female Noble Player"
+					"value": 70,
+					"first": "Ralph Langlois",
+					"second": "Elie Charpentier"
+				},
+				{
+					"category": "trait",
+					"type": "male",
+					"value": true,
+					"first": "Ralph Langlois"
+				},
+				{
+					"category": "trait",
+					"type": "indiscreet",
+					"value": true,
+					"first": "Ralph Langlois"
+				},
+				{
+					"category": "attribute",
+					"type": "propriety",
+					"value": 60,
+					"first": "Jeanne Moutard"
+				},
+				{
+					"category": "trait",
+					"type": "female",
+					"value": true,
+					"first": "Jeanne Moutard"
+				},
+				{
+					"category": "trait",
+					"type": "virtuous",
+					"value": false,
+					"first": "Jeanne Moutard"
+				},
+				{
+					"category": "trait",
+					"type": "rich person",
+					"value": true,
+					"first": "Jeanne Moutard"
+				},
+				{
+					"category": "trait",
+					"type": "young",
+					"value": false,
+					"first": "Jeanne Moutard"
+				},
+				{
+					"category": "attribute",
+					"type": "charisma",
+					"value": 60,
+					"first": "Jeanne Moutard"
 				},
 				{
 					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Valère",
-					"second": "Servant Player"
+					"type": "affinity",
+					"value": 60,
+					"first": "Jeanne Moutard",
+					"second": "Jacob Chauvin"
+				},
+				{
+					"category": "attribute",
+					"type": "social standing",
+					"value": 65,
+					"first": "Jeanne Moutard"
+				},
+				{
+					"category": "trait",
+					"type": "elegantly dressed",
+					"value": true,
+					"first": "Jeanne Moutard"
+				},
+				{
+					"category": "relationship",
+					"type": "lovers",
+					"value": true,
+					"first": "Jeanne Moutard",
+					"second": "Jacob Chauvin"
+				},
+				{
+					"category": "trait",
+					"type": "devout",
+					"value": true,
+					"first": "Jeanne Moutard"
+				},
+				{
+					"category": "trait",
+					"type": "inconsistent",
+					"value": true,
+					"first": "Jeanne Moutard"
+				},
+				{
+					"category": "trait",
+					"type": "male",
+					"value": true,
+					"first": "Alexandre Nezat"
+				},
+				{
+					"category": "trait",
+					"type": "young",
+					"value": true,
+					"first": "Alexandre Nezat"
+				},
+				{
+					"category": "trait",
+					"type": "rich person",
+					"value": false,
+					"first": "Alexandre Nezat"
+				},
+				{
+					"category": "trait",
+					"type": "modest",
+					"value": false,
+					"first": "Alexandre Nezat"
+				},
+				{
+					"category": "attribute",
+					"type": "charisma",
+					"value": 35,
+					"first": "Alexandre Nezat"
+				},
+				{
+					"category": "trait",
+					"type": "unctuous",
+					"value": true,
+					"first": "Alexandre Nezat"
+				},
+				{
+					"category": "attribute",
+					"type": "sensitiveness",
+					"value": 80,
+					"first": "Alexandre Nezat"
+				},
+				{
+					"category": "network",
+					"type": "affinity",
+					"value": 90,
+					"first": "Alexandre Nezat",
+					"second": "Victoria Guidry"
+				},
+				{
+					"category": "attribute",
+					"type": "propriety",
+					"value": 55,
+					"first": "Lucien Noel"
+				},
+				{
+					"category": "attribute",
+					"type": "self-assuredness",
+					"value": 60,
+					"first": "Lucien Noel"
+				},
+				{
+					"category": "trait",
+					"type": "male",
+					"value": true,
+					"first": "Lucien Noel"
+				},
+				{
+					"category": "directedstatus",
+					"type": "intimidates",
+					"value": true,
+					"first": "Lucien Noel",
+					"second": "Jacob Chauvin"
+				},
+				{
+					"category": "trait",
+					"type": "old",
+					"value": true,
+					"first": "Lucien Noel"
+				},
+				{
+					"category": "trait",
+					"type": "talkative",
+					"value": false,
+					"first": "Lucien Noel"
+				},
+				{
+					"category": "relationship",
+					"type": "strangers",
+					"value": true,
+					"first": "Lucien Noel",
+					"second": "Jacob Chauvin"
+				},
+				{
+					"category": "trait",
+					"type": "cold",
+					"value": true,
+					"first": "Lucien Noel"
+				},
+				{
+					"category": "trait",
+					"type": "male",
+					"value": true,
+					"first": "Joseph Roy"
+				},
+				{
+					"category": "trait",
+					"type": "attendee",
+					"value": true,
+					"first": "Joseph Roy"
+				},
+				{
+					"category": "attribute",
+					"type": "nosiness",
+					"value": 71,
+					"first": "Joseph Roy"
+				},
+				{
+					"category": "attribute",
+					"type": "sophistication",
+					"value": 71,
+					"first": "Joseph Roy"
+				},
+				{
+					"category": "attribute",
+					"type": "cultural knowledge",
+					"value": 39,
+					"first": "Joseph Roy"
+				},
+				{
+					"category": "attribute",
+					"type": "self-assuredness",
+					"value": 81,
+					"first": "Joseph Roy"
+				},
+				{
+					"category": "trait",
+					"type": "intimidating",
+					"value": true,
+					"first": "Joseph Roy"
+				},
+				{
+					"category": "trait",
+					"type": "impudent",
+					"value": true,
+					"first": "Joseph Roy"
+				},
+				{
+					"category": "trait",
+					"type": "eccentric",
+					"value": true,
+					"first": "Joseph Roy"
+				},
+				{
+					"category": "trait",
+					"type": "inconsistent",
+					"value": true,
+					"first": "Joseph Roy"
+				},
+				{
+					"category": "trait",
+					"type": "indiscreet",
+					"value": true,
+					"first": "Joseph Roy"
+				},
+				{
+					"category": "socialrecordlabel",
+					"type": "flirted with",
+					"value": true,
+					"first": "Joseph Roy",
+					"second": "Jeanne Moutard"
+				},
+				{
+					"category": "socialrecordlabel",
+					"type": "flirted with",
+					"value": true,
+					"first": "Joseph Roy",
+					"second": "Grace Huval"
+				},
+				{
+					"category": "trait",
+					"type": "flirtatious",
+					"value": true,
+					"first": "Joseph Roy"
+				},
+				{
+					"category": "trait",
+					"type": "talkative",
+					"value": true,
+					"first": "Joseph Roy"
+				},
+				{
+					"category": "attribute",
+					"type": "propriety",
+					"value": 45,
+					"first": "Joseph Roy"
+				},
+				{
+					"category": "directedstatus",
+					"type": "cares for",
+					"value": true,
+					"first": "Joseph Roy",
+					"second": "Alexis Autin"
+				},
+				{
+					"category": "attribute",
+					"type": "charisma",
+					"value": 71,
+					"first": "Marie-Claire Savoie"
+				},
+				{
+					"category": "attribute",
+					"type": "sensitiveness",
+					"value": 61,
+					"first": "Marie-Claire Savoie"
+				},
+				{
+					"category": "directedstatus",
+					"type": "financially dependent on",
+					"value": true,
+					"first": "Marie-Claire Savoie",
+					"second": "Charles Devillier"
+				},
+				{
+					"category": "directedstatus",
+					"type": "trusts",
+					"value": true,
+					"first": "Marie-Claire Savoie",
+					"second": "Renee Hebert"
+				},
+				{
+					"category": "network",
+					"type": "affinity",
+					"value": 71,
+					"first": "Marie-Claire Savoie",
+					"second": "Celila Broussard"
 				},
 				{
 					"category": "relationship",
 					"type": "esteem",
 					"value": true,
-					"first": "Valère",
-					"second": "Servant Player"
+					"first": "Marie-Claire Savoie",
+					"second": "Amy Robichaux"
+				},
+				{
+					"category": "status",
+					"type": "upset",
+					"value": true,
+					"first": "Marie-Claire Savoie"
+				},
+				{
+					"category": "trait",
+					"type": "beautiful",
+					"value": true,
+					"first": "Marie-Claire Savoie"
+				},
+				{
+					"category": "trait",
+					"type": "innocent looking",
+					"value": true,
+					"first": "Marie-Claire Savoie"
+				},
+				{
+					"category": "trait",
+					"type": "charming",
+					"value": true,
+					"first": "Marie-Claire Savoie"
+				},
+				{
+					"category": "trait",
+					"type": "female",
+					"value": true,
+					"first": "Marie-Claire Savoie"
+				},
+				{
+					"category": "trait",
+					"type": "foreigner",
+					"value": true,
+					"first": "Marie-Claire Savoie"
+				},
+				{
+					"category": "trait",
+					"type": "honest",
+					"value": true,
+					"first": "Marie-Claire Savoie"
+				},
+				{
+					"category": "trait",
+					"type": "kind",
+					"value": true,
+					"first": "Marie-Claire Savoie"
+				},
+				{
+					"category": "trait",
+					"type": "modest",
+					"value": true,
+					"first": "Marie-Claire Savoie"
+				},
+				{
+					"category": "trait",
+					"type": "rich",
+					"value": false,
+					"first": "Marie-Claire Savoie"
+				},
+				{
+					"category": "trait",
+					"type": "young",
+					"value": true,
+					"first": "Marie-Claire Savoie"
+				},
+				{
+					"category": "trait",
+					"type": "virtuous",
+					"value": true,
+					"first": "Marie-Claire Savoie"
+				},
+				{
+					"category": "trait",
+					"type": "male",
+					"value": true,
+					"first": "Claude Robin"
+				},
+				{
+					"category": "trait",
+					"type": "police officer",
+					"value": true,
+					"first": "Claude Robin"
+				},
+				{
+					"category": "trait",
+					"type": "young",
+					"value": true,
+					"first": "Claude Robin"
+				},
+				{
+					"category": "network",
+					"type": "affinity",
+					"value": 15,
+					"first": "Claude Robin",
+					"second": "Dustin Gaspard"
 				},
 				{
 					"category": "relationship",
-					"type": "ally",
+					"type": "rivals",
 					"value": true,
-					"first": "Valère",
-					"second": "Servant Player"
-				},
-				{
-					"category": "role",
-					"type": "acquaintance",
-					"value": true,
-					"first": "Valère"
-				},
-				{
-					"category": "role",
-					"type": "male",
-					"value": true,
-					"first": "Valère"
-				},
-				{
-					"category": "role",
-					"type": "servant",
-					"value": true,
-					"first": "Valère"
-				},
-				{
-					"category": "role",
-					"type": "player",
-					"value": false,
-					"first": "Valère"
+					"first": "Claude Robin",
+					"second": "Dustin Gaspard"
 				},
 				{
 					"category": "trait",
-					"type": "servant",
+					"type": "impudent",
 					"value": true,
-					"first": "Valère"
+					"first": "Claude Robin"
+				},
+				{
+					"category": "attribute",
+					"type": "propriety",
+					"value": 15,
+					"first": "Claude Robin"
+				},
+				{
+					"category": "attribute",
+					"type": "cultural knowledge",
+					"value": 25,
+					"first": "Claude Robin"
+				},
+				{
+					"category": "attribute",
+					"type": "propriety",
+					"value": 5,
+					"first": "Nicolas Bordelon"
 				},
 				{
 					"category": "trait",
-					"type": "servant",
+					"type": "rich person",
 					"value": true,
-					"first": "Valère"
+					"first": "Nicolas Bordelon"
 				},
 				{
 					"category": "trait",
-					"type": "non-noble",
+					"type": "eccentric",
 					"value": true,
-					"first": "Valère"
+					"first": "Nicolas Bordelon"
 				},
 				{
 					"category": "trait",
 					"type": "intelligent",
 					"value": true,
-					"first": "Valère"
+					"first": "Nicolas Bordelon"
 				},
 				{
 					"category": "trait",
-					"type": "poor",
+					"type": "rich",
 					"value": true,
-					"first": "Valère"
+					"first": "Nicolas Bordelon"
 				},
 				{
 					"category": "trait",
-					"type": "loyal",
+					"type": "mocking",
 					"value": true,
-					"first": "Valère"
+					"first": "Nicolas Bordelon"
 				},
 				{
 					"category": "trait",
-					"type": "friendly",
+					"type": "penetrating",
 					"value": true,
-					"first": "Valère"
-				},
-
-
-				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Madame du Puy-des-Gougères",
-					"second": "Male Noble Player"
+					"first": "Nicolas Bordelon"
 				},
 				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Madame du Puy-des-Gougères",
-					"second": "Female Noble Player"
+					"category": "attribute",
+					"type": "charisma",
+					"value": 75,
+					"first": "Alexis Autin"
 				},
 				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Madame du Puy-des-Gougères",
-					"second": "Servant Player"
+					"category": "attribute",
+					"type": "sophistication",
+					"value": 45,
+					"first": "Alexis Autin"
 				},
 				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Madame du Puy-des-Gougères",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Madame du Puy-des-Gougères",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Madame du Puy-des-Gougères",
-					"second": "Servant Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Madame du Puy-des-Gougères",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Madame du Puy-des-Gougères",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Madame du Puy-des-Gougères",
-					"second": "Servant Player"
-				},
-				{
-					"category": "role",
-					"type": "acquaintance",
+					"category": "directedstatus",
+					"type": "financially dependent on",
 					"value": true,
-					"first": "Madame du Puy-des-Gougères"
+					"first": "Alexis Autin",
+					"second": "Joseph Roy"
 				},
 				{
-					"category": "role",
+					"category": "directedstatus",
+					"type": "offended by",
+					"value": true,
+					"first": "Alexis Autin",
+					"second": "Ralph Aucoin"
+				},
+				{
+					"category": "trait",
+					"type": "beautiful",
+					"value": true,
+					"first": "Alexis Autin"
+				},
+				{
+					"category": "trait",
+					"type": "impudent",
+					"value": true,
+					"first": "Alexis Autin"
+				},
+				{
+					"category": "trait",
+					"type": "eccentric",
+					"value": true,
+					"first": "Alexis Autin"
+				},
+				{
+					"category": "trait",
 					"type": "female",
 					"value": true,
-					"first": "Madame du Puy-des-Gougères"
-				},
-				{
-					"category": "role",
-					"type": "noble",
-					"value": true,
-					"first": "Madame du Puy-des-Gougères"
-				},
-				{
-					"category": "role",
-					"type": "player",
-					"value": false,
-					"first": "Madame du Puy-des-Gougères"
+					"first": "Alexis Autin"
 				},
 				{
 					"category": "trait",
-					"type": "noble",
+					"type": "deceitful",
 					"value": true,
-					"first": "Madame du Puy-des-Gougères"
+					"first": "Alexis Autin"
 				},
 				{
 					"category": "trait",
-					"type": "wealthy",
+					"type": "talkative",
 					"value": true,
-					"first": "Madame du Puy-des-Gougères"
-				},
-				{
-					"category": "trait",
-					"type": "friendly",
-					"value": true,
-					"first": "Madame du Puy-des-Gougères"
-				},
-				{
-					"category": "trait",
-					"type": "clever",
-					"value": true,
-					"first": "Madame du Puy-des-Gougères"
-				},
-				{
-					"category": "trait",
-					"type": "deceptive",
-					"value": true,
-					"first": "Madame du Puy-des-Gougères"
-				},
-				{
-					"category": "trait",
-					"type": "haughty",
-					"value": true,
-					"first": "Madame du Puy-des-Gougères"
-				},
-
-
-				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Madame de Cher-sur-Tendre",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Madame de Cher-sur-Tendre",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Madame de Cher-sur-Tendre",
-					"second": "Servant Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Madame de Cher-sur-Tendre",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Madame de Cher-sur-Tendre",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Madame de Cher-sur-Tendre",
-					"second": "Servant Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Madame de Cher-sur-Tendre",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Madame de Cher-sur-Tendre",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Madame de Cher-sur-Tendre",
-					"second": "Servant Player"
-				},
-				{
-					"category": "role",
-					"type": "acquaintance",
-					"value": true,
-					"first": "Madame de Cher-sur-Tendre"
-				},
-				{
-					"category": "role",
-					"type": "female",
-					"value": true,
-					"first": "Madame de Cher-sur-Tendre"
-				},
-				{
-					"category": "role",
-					"type": "noble",
-					"value": true,
-					"first": "Madame de Cher-sur-Tendre"
-				},
-				{
-					"category": "role",
-					"type": "player",
-					"value": false,
-					"first": "Madame de Cher-sur-Tendre"
-				},
-				{
-					"category": "trait",
-					"type": "noble",
-					"value": true,
-					"first": "Madame de Cher-sur-Tendre"
-				},
-				{
-					"category": "trait",
-					"type": "amorous",
-					"value": true,
-					"first": "Madame de Cher-sur-Tendre"
-				},
-				{
-					"category": "trait",
-					"type": "looking for love",
-					"value": true,
-					"first": "Madame de Cher-sur-Tendre"
-				},
-				{
-					"category": "trait",
-					"type": "prideful",
-					"value": true,
-					"first": "Madame de Cher-sur-Tendre"
-				},
-				{
-					"category": "trait",
-					"type": "friendly",
-					"value": true,
-					"first": "Madame de Cher-sur-Tendre"
-				},
-
-
-				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Mademoiselle Eloïse de Hauteclaire",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Mademoiselle Eloïse de Hauteclaire",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Mademoiselle Eloïse de Hauteclaire",
-					"second": "Servant Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Mademoiselle Eloïse de Hauteclaire",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Mademoiselle Eloïse de Hauteclaire",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Mademoiselle Eloïse de Hauteclaire",
-					"second": "Servant Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Mademoiselle Eloïse de Hauteclaire",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Mademoiselle Eloïse de Hauteclaire",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Mademoiselle Eloïse de Hauteclaire",
-					"second": "Servant Player"
-				},
-				{
-					"category": "role",
-					"type": "acquaintance",
-					"value": true,
-					"first": "Mademoiselle Eloïse de Hauteclaire"
-				},
-				{
-					"category": "role",
-					"type": "female",
-					"value": true,
-					"first": "Mademoiselle Eloïse de Hauteclaire"
-				},
-				{
-					"category": "role",
-					"type": "noble",
-					"value": true,
-					"first": "Mademoiselle Eloïse de Hauteclaire"
-				},
-				{
-					"category": "role",
-					"type": "player",
-					"value": false,
-					"first": "Mademoiselle Eloïse de Hauteclaire"
-				},
-				{
-					"category": "trait",
-					"type": "noble",
-					"value": true,
-					"first": "Mademoiselle Eloïse de Hauteclaire"
-				},
-				{
-					"category": "trait",
-					"type": "very haughty",
-					"value": true,
-					"first": "Mademoiselle Eloïse de Hauteclaire"
-				},
-				{
-					"category": "trait",
-					"type": "very disdainful",
-					"value": true,
-					"first": "Mademoiselle Eloïse de Hauteclaire"
-				},
-				{
-					"category": "trait",
-					"type": "not rich",
-					"value": true,
-					"first": "Mademoiselle Eloïse de Hauteclaire"
-				},
-				{
-					"category": "trait",
-					"type": "not friendly",
-					"value": true,
-					"first": "Mademoiselle Eloïse de Hauteclaire"
-				},
-				{
-					"category": "trait",
-					"type": "seductive",
-					"value": true,
-					"first": "Mademoiselle Eloïse de Hauteclaire"
-				},
-
-
-				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Ninon",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Ninon",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Ninon",
-					"second": "Servant Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Ninon",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Ninon",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Ninon",
-					"second": "Servant Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Ninon",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Ninon",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Ninon",
-					"second": "Servant Player"
-				},
-				{
-					"category": "role",
-					"type": "stranger",
-					"value": true,
-					"first": "Ninon"
-				},
-				{
-					"category": "role",
-					"type": "female",
-					"value": true,
-					"first": "Ninon"
-				},
-				{
-					"category": "role",
-					"type": "servant",
-					"value": true,
-					"first": "Ninon"
-				},
-				{
-					"category": "role",
-					"type": "player",
-					"value": false,
-					"first": "Ninon"
-				},
-				{
-					"category": "trait",
-					"type": "servant",
-					"value": true,
-					"first": "Ninon"
-				},
-				{
-					"category": "trait",
-					"type": "non-noble",
-					"value": true,
-					"first": "Ninon"
-				},
-				{
-					"category": "trait",
-					"type": "poor",
-					"value": true,
-					"first": "Ninon"
-				},
-				{
-					"category": "trait",
-					"type": "not well educated",
-					"value": true,
-					"first": "Ninon"
-				},
-				{
-					"category": "trait",
-					"type": "fearful",
-					"value": true,
-					"first": "Ninon"
-				},
-				{
-					"category": "trait",
-					"type": "easily intimidated",
-					"value": true,
-					"first": "Ninon"
-				},
-				{
-					"category": "trait",
-					"type": "friendly",
-					"value": true,
-					"first": "Ninon"
-				},
-
-
-				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Toinette",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Toinette",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Toinette",
-					"second": "Servant Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Toinette",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Toinette",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Toinette",
-					"second": "Servant Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Toinette",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Toinette",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Toinette",
-					"second": "Servant Player"
+					"first": "Alexis Autin"
 				},
 				{
 					"category": "relationship",
 					"type": "esteem",
 					"value": true,
-					"first": "Toinette",
-					"second": "Servant Player"
+					"first": "Alexis Autin",
+					"second": "Elizabeth Landry"
 				},
 				{
-					"category": "relationship",
-					"type": "ally",
+					"category": "status",
+					"type": "flattered",
 					"value": true,
-					"first": "Toinette",
-					"second": "Servant Player"
-				},
-				{
-					"category": "role",
-					"type": "stranger",
-					"value": true,
-					"first": "Toinette"
-				},
-				{
-					"category": "role",
-					"type": "female",
-					"value": true,
-					"first": "Toinette"
-				},
-				{
-					"category": "role",
-					"type": "servant",
-					"value": true,
-					"first": "Toinette"
-				},
-				{
-					"category": "role",
-					"type": "player",
-					"value": false,
-					"first": "Toinette"
+					"first": "Alexis Autin"
 				},
 				{
 					"category": "trait",
-					"type": "servant",
+					"type": "criminal",
 					"value": true,
-					"first": "Toinette"
+					"first": "Alexis Autin"
+				},
+				{
+					"category": "trait",
+					"type": "greedy",
+					"value": true,
+					"first": "Alexis Autin"
+				},
+				{
+					"category": "attribute",
+					"type": "propriety",
+					"value": 90,
+					"first": "Judith Arceneaux"
+				},
+				{
+					"category": "attribute",
+					"type": "charisma",
+					"value": 51,
+					"first": "Judith Arceneaux"
+				},
+				{
+					"category": "attribute",
+					"type": "cunningness",
+					"value": 60,
+					"first": "Judith Arceneaux"
+				},
+				{
+					"category": "attribute",
+					"type": "nosiness",
+					"value": 70,
+					"first": "Judith Arceneaux"
+				},
+				{
+					"category": "attribute",
+					"type": "cultural knowledge",
+					"value": 70,
+					"first": "Judith Arceneaux"
+				},
+				{
+					"category": "attribute",
+					"type": "sophistication",
+					"value": 60,
+					"first": "Judith Arceneaux"
+				},
+				{
+					"category": "relationship",
+					"type": "rivals",
+					"value": true,
+					"first": "Judith Arceneaux",
+					"second": "l'Officier"
+				},
+				{
+					"category": "status",
+					"type": "amused",
+					"value": true,
+					"first": "Judith Arceneaux"
+				},
+				{
+					"category": "trait",
+					"type": "innocent looking",
+					"value": true,
+					"first": "Judith Arceneaux"
 				},
 				{
 					"category": "trait",
 					"type": "intelligent",
 					"value": true,
-					"first": "Toinette"
+					"first": "Judith Arceneaux"
 				},
 				{
 					"category": "trait",
-					"type": "poor",
+					"type": "elegantly dressed",
 					"value": true,
-					"first": "Toinette"
+					"first": "Judith Arceneaux"
 				},
 				{
 					"category": "trait",
-					"type": "friendly",
+					"type": "wearing a first responder uniform",
 					"value": true,
-					"first": "Toinette"
+					"first": "Judith Arceneaux"
 				},
 				{
 					"category": "trait",
-					"type": "clever",
+					"type": "trustworthy",
 					"value": true,
-					"first": "Toinette"
+					"first": "Judith Arceneaux"
+				},
+				{
+					"category": "trait",
+					"type": "penetrating",
+					"value": true,
+					"first": "Judith Arceneaux"
 				},
 				{
 					"category": "trait",
 					"type": "deceptive",
 					"value": true,
-					"first": "Toinette"
+					"first": "Judith Arceneaux"
 				},
-
-
+				{
+					"category": "attribute",
+					"type": "propriety",
+					"value": 51,
+					"first": "Marie Guidroz"
+				},
+				{
+					"category": "attribute",
+					"type": "cultural knowledge",
+					"value": 61,
+					"first": "Marie Guidroz"
+				},
+				{
+					"category": "attribute",
+					"type": "social standing",
+					"value": 61,
+					"first": "Marie Guidroz"
+				},
+				{
+					"category": "attribute",
+					"type": "self-assuredness",
+					"value": 61,
+					"first": "Marie Guidroz"
+				},
+				{
+					"category": "directedstatus",
+					"type": "hates",
+					"value": true,
+					"first": "Marie Guidroz",
+					"second": "Ralph Aucoin"
+				},
+				{
+					"category": "directedstatus",
+					"type": "owes a favor to",
+					"value": true,
+					"first": "Marie Guidroz",
+					"second": "Théo Arnaud"
+				},
+				{
+					"category": "network",
+					"type": "affinity",
+					"value": 61,
+					"first": "Marie Guidroz",
+					"second": "Marie-Claire Savoie"
+				},
+				{
+					"category": "status",
+					"type": "inebriated",
+					"value": true,
+					"first": "Marie Guidroz"
+				},
+				{
+					"category": "trait",
+					"type": "ambitious",
+					"value": true,
+					"first": "Marie Guidroz"
+				},
+				{
+					"category": "trait",
+					"type": "disdainful",
+					"value": true,
+					"first": "Marie Guidroz"
+				},
+				{
+					"category": "trait",
+					"type": "flirtatious",
+					"value": true,
+					"first": "Marie Guidroz"
+				},
+				{
+					"category": "trait",
+					"type": "male",
+					"value": true,
+					"first": "Marie Guidroz"
+				},
+				{
+					"category": "trait",
+					"type": "mocking",
+					"value": true,
+					"first": "Marie Guidroz"
+				},
+				{
+					"category": "trait",
+					"type": "intimidating",
+					"value": true,
+					"first": "Marie Guidroz"
+				},
+				{
+					"category": "trait",
+					"type": "rich",
+					"value": true,
+					"first": "Marie Guidroz"
+				},
+				{
+					"category": "trait",
+					"type": "unctuous",
+					"value": true,
+					"first": "Marie Guidroz"
+				},
+				{
+					"category": "trait",
+					"type": "well-known",
+					"value": true,
+					"first": "Marie Guidroz"
+				},
+				{
+					"category": "trait",
+					"type": "wearing a first responder uniform",
+					"value": true,
+					"first": "Marie Guidroz"
+				},
+				{
+					"category": "trait",
+					"type": "rich person",
+					"value": true,
+					"first": "Marie Guidroz"
+				},
+				{
+					"category": "directedstatus",
+					"type": "jealous of",
+					"value": true,
+					"first": "Marie Guidroz",
+					"second": "Adrianne Billedeaux"
+				},
 				{
 					"category": "network",
 					"type": "credibility",
-					"value": 40,
-					"first": "Fruit-seller / la Fruitière",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Fruit-seller / la Fruitière",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Fruit-seller / la Fruitière",
-					"second": "Servant Player"
+					"value": 55,
+					"first": "Marie Guidroz",
+					"second": "Elizabeth Huff"
 				},
 				{
 					"category": "network",
 					"type": "curiosity",
-					"value": 20,
-					"first": "Fruit-seller / la Fruitière",
-					"second": "Male Noble Player"
+					"value": 65,
+					"first": "Marie Guidroz",
+					"second": "Elizabeth Huff"
 				},
 				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Fruit-seller / la Fruitière",
-					"second": "Female Noble Player"
+					"category": "attribute",
+					"type": "charisma",
+					"value": 65,
+					"first": "Elizabeth Huff"
 				},
 				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Fruit-seller / la Fruitière",
-					"second": "Servant Player"
+					"category": "attribute",
+					"type": "propriety",
+					"value": 55,
+					"first": "Elizabeth Huff"
 				},
 				{
-					"category": "network",
-					"type": "emulation",
+					"category": "attribute",
+					"type": "sensitiveness",
+					"value": 80,
+					"first": "Elizabeth Huff"
+				},
+				{
+					"category": "attribute",
+					"type": "social standing",
 					"value": 30,
-					"first": "Fruit-seller / la Fruitière",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Fruit-seller / la Fruitière",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Fruit-seller / la Fruitière",
-					"second": "Servant Player"
-				},
-				{
-					"category": "role",
-					"type": "stranger",
-					"value": true,
-					"first": "Fruit-seller / la Fruitière"
-				},
-				{
-					"category": "role",
-					"type": "female",
-					"value": true,
-					"first": "Fruit-seller / la Fruitière"
-				},
-				{
-					"category": "role",
-					"type": "servant",
-					"value": true,
-					"first": "Fruit-seller / la Fruitière"
-				},
-				{
-					"category": "role",
-					"type": "player",
-					"value": false,
-					"first": "Fruit-seller / la Fruitière"
+					"first": "Elizabeth Huff"
 				},
 				{
 					"category": "trait",
-					"type": "non-noble",
+					"type": "virtuous",
 					"value": true,
-					"first": "Fruit-seller / la Fruitière"
+					"first": "Elizabeth Huff"
 				},
 				{
 					"category": "trait",
-					"type": "friendly",
+					"type": "beautiful",
 					"value": true,
-					"first": "Fruit-seller / la Fruitière"
-				},
-				{
-					"category": "trait",
-					"type": "intelligent",
-					"value": true,
-					"first": "Fruit-seller / la Fruitière"
+					"first": "Elizabeth Huff"
 				},
 				{
 					"category": "trait",
 					"type": "poor",
 					"value": true,
-					"first": "Fruit-seller / la Fruitière"
+					"first": "Elizabeth Huff"
 				},
 				{
 					"category": "trait",
-					"type": "wants to sell fruit",
+					"type": "female",
 					"value": true,
-					"first": "Fruit-seller / la Fruitière"
-				},
-
-
-				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Cellist",
-					"second": "Male Noble Player"
+					"first": "Elizabeth Huff"
 				},
 				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Cellist",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Cellist",
-					"second": "Servant Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Cellist",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Cellist",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Cellist",
-					"second": "Servant Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Cellist",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Cellist",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Cellist",
-					"second": "Servant Player"
-				},
-				{
-					"category": "role",
-					"type": "acquaintance",
+					"category": "trait",
+					"type": "innocent looking",
 					"value": true,
-					"first": "Cellist"
+					"first": "Elizabeth Huff"
 				},
 				{
-					"category": "role",
-					"type": "male",
+					"category": "trait",
+					"type": "female",
 					"value": true,
-					"first": "Cellist"
+					"first": "Marie Lavergne"
 				},
 				{
-					"category": "role",
-					"type": "servant",
+					"category": "trait",
+					"type": "young",
 					"value": true,
-					"first": "Cellist"
+					"first": "Marie Lavergne"
 				},
 				{
-					"category": "role",
-					"type": "player",
+					"category": "attribute",
+					"type": "propriety",
+					"value": 61,
+					"first": "Marie Lavergne"
+				},
+				{
+					"category": "trait",
+					"type": "beautiful",
+					"value": true,
+					"first": "Marie Lavergne"
+				},
+				{
+					"category": "trait",
+					"type": "attendee",
+					"value": true,
+					"first": "Marie Lavergne"
+				},
+				{
+					"category": "trait",
+					"type": "innocent looking",
+					"value": true,
+					"first": "Marie Lavergne"
+				},
+				{
+					"category": "trait",
+					"type": "charming",
+					"value": true,
+					"first": "Marie Lavergne"
+				},
+				{
+					"category": "trait",
+					"type": "ambitious",
+					"value": true,
+					"first": "Marie Lavergne"
+				},
+				{
+					"category": "trait",
+					"type": "vain",
+					"value": true,
+					"first": "Marie Lavergne"
+				},
+				{
+					"category": "trait",
+					"type": "unctuous",
+					"value": true,
+					"first": "Marie Lavergne"
+				},
+				{
+					"category": "trait",
+					"type": "greedy",
+					"value": true,
+					"first": "Marie Lavergne"
+				},
+				{
+					"category": "attribute",
+					"type": "cultural knowledge",
+					"value": 61,
+					"first": "Marie Lavergne"
+				},
+				{
+					"category": "directedstatus",
+					"type": "offended by",
+					"value": true,
+					"first": "Marie Lavergne",
+					"second": "Ralph Aucoin"
+				},
+				{
+					"category": "trait",
+					"type": "deceitful",
+					"value": true,
+					"first": "Marie Lavergne"
+				},
+				{
+					"category": "trait",
+					"type": "modest",
 					"value": false,
-					"first": "Cellist"
+					"first": "Marie Lavergne"
+				},
+				{
+					"category": "attribute",
+					"type": "propriety",
+					"value": 40,
+					"first": "Pierre Melancon"
 				},
 				{
 					"category": "trait",
-					"type": "non-noble",
+					"type": "charming",
 					"value": true,
-					"first": "Cellist"
+					"first": "Pierre Melancon"
+				},
+				{
+					"category": "trait",
+					"type": "eccentric",
+					"value": true,
+					"first": "Pierre Melancon"
+				},
+				{
+					"category": "attribute",
+					"type": "sophistication",
+					"value": 75,
+					"first": "Pierre Melancon"
+				},
+				{
+					"category": "attribute",
+					"type": "cultural knowledge",
+					"value": 75,
+					"first": "Pierre Melancon"
+				},
+				{
+					"category": "trait",
+					"type": "provincial",
+					"value": true,
+					"first": "Pierre Melancon"
+				},
+				{
+					"category": "trait",
+					"type": "rich person",
+					"value": false,
+					"first": "Pierre Melancon"
 				},
 				{
 					"category": "trait",
 					"type": "intelligent",
 					"value": true,
-					"first": "Cellist"
+					"first": "Pierre Melancon"
+				},
+				{
+					"category": "attribute",
+					"type": "cultural knowledge",
+					"value": 80,
+					"first": "Catherine Poirier"
 				},
 				{
 					"category": "trait",
-					"type": "not sociable",
+					"type": "attendee",
 					"value": true,
-					"first": "Cellist"
+					"first": "Catherine Poirier"
 				},
 				{
 					"category": "trait",
-					"type": "friendly",
+					"type": "academic",
 					"value": true,
-					"first": "Cellist"
+					"first": "Catherine Poirier"
 				},
 				{
 					"category": "trait",
-					"type": "haughty",
+					"type": "innocent looking",
 					"value": true,
-					"first": "Cellist"
+					"first": "Catherine Poirier"
+				},
+				{
+					"category": "trait",
+					"type": "intelligent",
+					"value": true,
+					"first": "Catherine Poirier"
+				},
+				{
+					"category": "trait",
+					"type": "joker",
+					"value": true,
+					"first": "Catherine Poirier"
+				},
+				{
+					"category": "trait",
+					"type": "academic",
+					"value": true,
+					"first": "Catherine Poirier"
+				},
+				{
+					"category": "attribute",
+					"type": "charisma",
+					"value": 61,
+					"first": "Catherine Poirier"
+				},
+				{
+					"category": "status",
+					"type": "happy",
+					"value": true,
+					"first": "Catherine Poirier"
+				},
+				{
+					"category": "attribute",
+					"type": "self-assuredness",
+					"value": 70,
+					"first": "Catherine Poirier"
+				},
+				{
+					"category": "network",
+					"type": "affinity",
+					"value": 65,
+					"first": "Catherine Poirier",
+					"second": "Marie Guidroz"
+				},
+				{
+					"category": "relationship",
+					"type": "friends",
+					"value": true,
+					"first": "Catherine Poirier",
+					"second": "Marie Guidroz"
+				},
+				{
+					"category": "attribute",
+					"type": "propriety",
+					"value": 50,
+					"first": "Catherine Poirier"
+				},
+				{
+					"category": "attribute",
+					"type": "propriety",
+					"value": 71,
+					"first": "Marie-Louise Sorbier"
+				},
+				{
+					"category": "attribute",
+					"type": "sophistication",
+					"value": 61,
+					"first": "Marie-Louise Sorbier"
+				},
+				{
+					"category": "attribute",
+					"type": "sensitiveness",
+					"value": 61,
+					"first": "Marie-Louise Sorbier"
+				},
+				{
+					"category": "directedstatus",
+					"type": "offended by",
+					"value": true,
+					"first": "Marie-Louise Sorbier",
+					"second": "Nicolas Bordelon"
+				},
+				{
+					"category": "network",
+					"type": "affinity",
+					"value": 61,
+					"first": "Marie-Louise Sorbier",
+					"second": "Marie-Claire Savoie"
+				},
+				{
+					"category": "network",
+					"type": "emulation",
+					"value": 51,
+					"first": "Marie-Louise Sorbier",
+					"second": "Jeanne Moutard"
+				},
+				{
+					"category": "trait",
+					"type": "beautiful",
+					"value": false,
+					"first": "Marie-Louise Sorbier"
+				},
+				{
+					"category": "trait",
+					"type": "female",
+					"value": true,
+					"first": "Marie-Louise Sorbier"
+				},
+				{
+					"category": "trait",
+					"type": "kind",
+					"value": true,
+					"first": "Marie-Louise Sorbier"
+				},
+				{
+					"category": "trait",
+					"type": "modest",
+					"value": true,
+					"first": "Marie-Louise Sorbier"
+				},
+				{
+					"category": "trait",
+					"type": "rich",
+					"value": false,
+					"first": "Marie-Louise Sorbier"
+				},
+				{
+					"category": "directedstatus",
+					"type": "ridicules",
+					"value": true,
+					"first": "Marie-Louise Sorbier",
+					"second": "Elizabeth Landry"
+				},
+				{
+					"category": "trait",
+					"type": "academic",
+					"value": true,
+					"first": "Anne Drouillon"
+				},
+				{
+					"category": "trait",
+					"type": "security guard",
+					"value": true,
+					"first": "Anne Drouillon"
+				},
+				{
+					"category": "attribute",
+					"type": "cultural knowledge",
+					"value": 95,
+					"first": "Anne Drouillon"
+				},
+				{
+					"category": "attribute",
+					"type": "charisma",
+					"value": 30,
+					"first": "Anne Drouillon"
+				},
+				{
+					"category": "trait",
+					"type": "poorly dressed",
+					"value": true,
+					"first": "Anne Drouillon"
 				},
 				{
 					"category": "trait",
 					"type": "poor",
 					"value": true,
-					"first": "Cellist"
-				},
-
-
-				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Scaramouche",
-					"second": "Male Noble Player"
+					"first": "Anne Drouillon"
 				},
 				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Scaramouche",
-					"second": "Female Noble Player"
+					"category": "trait",
+					"type": "virtuous",
+					"value": false,
+					"first": "Anne Drouillon"
 				},
 				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Scaramouche",
-					"second": "Servant Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Scaramouche",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Scaramouche",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Scaramouche",
-					"second": "Servant Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Scaramouche",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Scaramouche",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Scaramouche",
-					"second": "Servant Player"
-				},
-				{
-					"category": "role",
-					"type": "acquaintance",
-					"value": true,
-					"first": "Scaramouche"
-				},
-				{
-					"category": "role",
+					"category": "trait",
 					"type": "male",
 					"value": true,
-					"first": "Scaramouche"
+					"first": "Marcel Patin"
 				},
 				{
-					"category": "role",
-					"type": "servant",
+					"category": "trait",
+					"type": "virtuous",
 					"value": true,
-					"first": "Scaramouche"
+					"first": "Marcel Patin"
 				},
 				{
-					"category": "role",
-					"type": "player",
+					"category": "trait",
+					"type": "devout",
+					"value": true,
+					"first": "Marcel Patin"
+				},
+				{
+					"category": "trait",
+					"type": "talkative",
 					"value": false,
-					"first": "Scaramouche"
+					"first": "Marcel Patin"
 				},
 				{
 					"category": "trait",
-					"type": "non-noble",
+					"type": "rich",
 					"value": true,
-					"first": "Scaramouche"
+					"first": "Marcel Patin"
 				},
 				{
 					"category": "trait",
-					"type": "friendly",
+					"type": "indifferent",
 					"value": true,
-					"first": "Scaramouche"
+					"first": "Marcel Patin"
 				},
 				{
 					"category": "trait",
-					"type": "not very sophisticated",
+					"type": "cold",
 					"value": true,
-					"first": "Scaramouche"
-				},
-
-				
-				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "L'Animateur",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "L'Animateur",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "L'Animateur",
-					"second": "Servant Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "L'Animateur",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "L'Animateur",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "L'Animateur",
-					"second": "Servant Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "L'Animateur",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "L'Animateur",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "L'Animateur",
-					"second": "Servant Player"
-				},
-				{
-					"category": "role",
-					"type": "acquaintance",
-					"value": true,
-					"first": "L'Animateur"
-				},
-				{
-					"category": "role",
-					"type": "male",
-					"value": true,
-					"first": "L'Animateur"
-				},
-				{
-					"category": "role",
-					"type": "servant",
-					"value": true,
-					"first": "L'Animateur"
-				},
-				{
-					"category": "role",
-					"type": "player",
-					"value": false,
-					"first": "L'Animateur"
+					"first": "Marcel Patin"
 				},
 				{
 					"category": "trait",
-					"type": "non-noble",
+					"type": "penetrating",
 					"value": true,
-					"first": "L'Animateur"
-				},
-
-
-				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Fanchon la Poche",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Fanchon la Poche",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Fanchon la Poche",
-					"second": "Servant Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Fanchon la Poche",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Fanchon la Poche",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Fanchon la Poche",
-					"second": "Servant Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Fanchon la Poche",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Fanchon la Poche",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Fanchon la Poche",
-					"second": "Servant Player"
-				},
-				{
-					"category": "role",
-					"type": "acquaintance",
-					"value": true,
-					"first": "Fanchon la Poche"
-				},
-				{
-					"category": "role",
-					"type": "female",
-					"value": true,
-					"first": "Fanchon la Poche"
-				},
-				{
-					"category": "role",
-					"type": "servant",
-					"value": true,
-					"first": "Fanchon la Poche"
-				},
-				{
-					"category": "role",
-					"type": "player",
-					"value": false,
-					"first": "Fanchon la Poche"
+					"first": "Marcel Patin"
 				},
 				{
 					"category": "trait",
-					"type": "non-noble",
+					"type": "greedy",
 					"value": true,
-					"first": "Fanchon la Poche"
-				},
-				{
-					"category": "trait",
-					"type": "very friendly",
-					"value": true,
-					"first": "Fanchon la Poche"
-				},
-				{
-					"category": "trait",
-					"type": "easy to get along with",
-					"value": true,
-					"first": "Fanchon la Poche"
-				},
-				{
-					"category": "trait",
-					"type": "dishonest",
-					"value": true,
-					"first": "Fanchon la Poche"
-				},
-				{
-					"category": "trait",
-					"type": "thief",
-					"value": true,
-					"first": "Fanchon la Poche"
-				},
-
-
-				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Henriette Lavocat",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Henriette Lavocat",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Henriette Lavocat",
-					"second": "Servant Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Henriette Lavocat",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Henriette Lavocat",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Henriette Lavocat",
-					"second": "Servant Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Henriette Lavocat",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Henriette Lavocat",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Henriette Lavocat",
-					"second": "Servant Player"
-				},
-				{
-					"category": "role",
-					"type": "stranger",
-					"value": true,
-					"first": "Henriette Lavocat"
-				},
-				{
-					"category": "role",
-					"type": "female",
-					"value": true,
-					"first": "Henriette Lavocat"
-				},
-				{
-					"category": "role",
-					"type": "servant",
-					"value": true,
-					"first": "Henriette Lavocat"
-				},
-				{
-					"category": "role",
-					"type": "player",
-					"value": false,
-					"first": "Henriette Lavocat"
-				},
-				{
-					"category": "trait",
-					"type": "non-noble",
-					"value": true,
-					"first": "Henriette Lavocat"
-				},
-				{
-					"category": "trait",
-					"type": "bourgeois",
-					"value": true,
-					"first": "Henriette Lavocat"
-				},
-				{
-					"category": "trait",
-					"type": "amorous",
-					"value": true,
-					"first": "Henriette Lavocat"
-				},
-				{
-					"category": "trait",
-					"type": "friendly",
-					"value": true,
-					"first": "Henriette Lavocat"
-				},
-				{
-					"category": "trait",
-					"type": "helpful",
-					"value": true,
-					"first": "Henriette Lavocat"
-				},
-
-
-				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Jeannot la Panse",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Jeannot la Panse",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "credibility",
-					"value": 40,
-					"first": "Jeannot la Panse",
-					"second": "Servant Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Jeannot la Panse",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Jeannot la Panse",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "curiosity",
-					"value": 20,
-					"first": "Jeannot la Panse",
-					"second": "Servant Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Jeannot la Panse",
-					"second": "Male Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Jeannot la Panse",
-					"second": "Female Noble Player"
-				},
-				{
-					"category": "network",
-					"type": "emulation",
-					"value": 30,
-					"first": "Jeannot la Panse",
-					"second": "Servant Player"
-				},
-				{
-					"category": "role",
-					"type": "acquaintance",
-					"value": true,
-					"first": "Jeannot la Panse"
-				},
-				{
-					"category": "role",
-					"type": "male",
-					"value": true,
-					"first": "Jeannot la Panse"
-				},
-				{
-					"category": "role",
-					"type": "servant",
-					"value": true,
-					"first": "Jeannot la Panse"
-				},
-				{
-					"category": "role",
-					"type": "player",
-					"value": false,
-					"first": "Jeannot la Panse"
-				},
-				{
-					"category": "trait",
-					"type": "non-noble",
-					"value": true,
-					"first": "Jeannot la Panse"
-				},
-				{
-					"category": "trait",
-					"type": "non friendly",
-					"value": true,
-					"first": "Jeannot la Panse"
-				},
-				{
-					"category": "trait",
-					"type": "amorous",
-					"value": true,
-					"first": "Jeannot la Panse"
-				},
-				{
-					"category": "trait",
-					"type": "dishonest",
-					"value": true,
-					"first": "Jeannot la Panse"
+					"first": "Marcel Patin"
 				}
 			]
 		}

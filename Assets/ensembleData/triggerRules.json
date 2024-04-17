@@ -1,5 +1,131 @@
 {
 	"fileName": "triggerRules",
 	"type": "trigger",
-	"rules": []
+	"rules": [
+		{
+			"name": "A rich person falls in love with beautiful, charming, charismatic women",
+			"conditions": [
+				{
+					"category": "attribute",
+					"type": "charisma",
+					"first": "someone",
+					"value": 75,
+					"operator": ">"
+				},
+				{
+					"category": "trait",
+					"type": "charming",
+					"first": "someone",
+					"value": true
+				},
+				{
+					"category": "trait",
+					"type": "beautiful",
+					"first": "someone",
+					"value": true
+				},
+				{
+					"category": "trait",
+					"type": "male",
+					"first": "other",
+					"value": true
+				},
+				{
+					"category": "trait",
+					"type": "female",
+					"first": "someone",
+					"value": true
+				},
+				{
+					"category": "trait",
+					"type": "rich person",
+					"first": "other",
+					"value": true
+				},
+				{
+					"category": "attribute",
+					"type": "sensitiveness",
+					"first": "other",
+					"value": 50,
+					"operator": ">"
+				}
+			],
+			"effects": [
+				{
+					"category": "status",
+					"type": "gobsmacked",
+					"first": "other",
+					"value": true
+				},
+				{
+					"category": "network",
+					"type": "affinity",
+					"first": "other",
+					"second": "someone",
+					"value": 100
+				}
+			],
+			"id": "triggerRules_H7ProhibooQFriqu2",
+			"origin": "triggerRules"
+		},
+		{
+			"name": "Romantics are repulsed by self-indulgent people",
+			"conditions": [
+				{
+					"category": "trait",
+					"type": "romantic",
+					"first": "someone",
+					"value": true
+				},
+				{
+					"category": "status",
+					"type": "self-involved",
+					"first": "someone",
+					"value": false
+				},
+				{
+					"category": "status",
+					"type": "self-involved",
+					"first": "other",
+					"value": true
+				}
+			],
+			"effects": [
+				{
+					"category": "network",
+					"type": "affinity",
+					"first": "someone",
+					"second": "other",
+					"value": 10,
+					"operator": "-"
+				}
+			],
+			"origin": "triggerRules",
+			"id": "triggerRules_2"
+		},
+		{
+			"name": "People are repulsed when they are the recipients of romantic failures",
+			"conditions": [
+				{
+					"category": "socialrecordlabel",
+					"type": "romantic failure",
+					"first": "someone",
+					"second": "other",
+					"value": true
+				}
+			],
+			"effects": [
+				{
+					"category": "network",
+					"type": "affinity",
+					"first": "other",
+					"second": "someone",
+					"value": 10,
+					"operator": "-"
+				}
+			],
+			"origin": "triggerRules",
+			"id": "triggerRules_3"
+		}
+	]
 }
